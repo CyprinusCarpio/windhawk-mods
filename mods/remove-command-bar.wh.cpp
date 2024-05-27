@@ -2,10 +2,10 @@
 // @id              remove-command-bar
 // @name            Remove Command Bar
 // @description     Removes the Command Bar from file explorer.
-// @version         1.0
+// @version         1.1
 // @author          Waldemar
 // @github          https://github.com/CyprinusCarpio
-// @include         explorer.exe
+// @include         *
 // ==/WindhawkMod==
 
 // ==WindhawkModReadme==
