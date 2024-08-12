@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://windhawk.net/</id>
+    <title>Windhawk Mod Updates</title>
+    <updated>2024-08-10T20:15:38.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://windhawk.net/"/>
+    <subtitle>Updates in the official collection of Windhawk mods</subtitle>
+    <icon>https://windhawk.net/favicon.ico</icon>
+    <rights>Ramen Software</rights>
+    <entry>
+        <title type="html"><![CDATA[Taskbar Thumbnail Reorder 1.0.8]]></title>
+        <id>https://windhawk.net/mods/taskbar-thumbnail-reorder#2efe8bfdd78e6d3aa282afe913543b2e6e0ac84b</id>
+        <link href="https://windhawk.net/mods/taskbar-thumbnail-reorder"/>
+        <updated>2024-08-10T20:15:38.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added support for Windows 11 version 24H2.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskbar height and icon size 1.2.10]]></title>
+        <id>https://windhawk.net/mods/taskbar-icon-size#e3b2fcf725fb4688a56af83dd299f2605182cdcc</id>
+        <link href="https://windhawk.net/mods/taskbar-icon-size"/>
+        <updated>2024-08-10T17:14:48.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added support for Windows 11 version 24H2.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legacy Alt+Tab dialog 1.0]]></title>
+        <id>https://windhawk.net/mods/legacy-alt-tab#00ded682e58440e653b80814a164723252f65c46</id>
+        <link href="https://windhawk.net/mods/legacy-alt-tab"/>
+        <updated>2024-08-10T13:47:02.000Z</updated>
+        <content type="html"><![CDATA[<p>Enables legacy Alt+Tab dialog from Windows XP and Windows 2000</p>
+<p><img src="https://i.imgur.com/wdX9PW7.png" alt="Legacy Alt+Tab" /></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 taskbar on Windows 11 1.0]]></title>
+        <id>https://windhawk.net/mods/win10-taskbar-on-win11#fdcbbba78e2a2598fab384f47ca8751c0e1bb68d</id>
+        <link href="https://windhawk.net/mods/win10-taskbar-on-win11"/>
+        <updated>2024-08-10T12:09:01.000Z</updated>
+        <content type="html"><![CDATA[<p>This mod enables Windows 10 taskbar on Windows 11 versions 21H2 to 23H2 via registry method, without
+using Explorer Patcher. </p>
+<p>It may be useful also on later versions of Windows with Explorer.exe downgraded to previous versions
+and/or manipulated Windows features using vivetool utility.</p>
+<p>If you want to get rid of the cogwheel icon in the tray area, use the mod "Hide Action Center icon".
+You can restore the clock and set up the tray icons using legacy tray setup dialog,
+which you can start with command <code>shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}</code></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable grouping on the taskbar 1.3.5]]></title>
+        <id>https://windhawk.net/mods/taskbar-grouping#32678e0ef871bf50c15cd8692b9317b869915542</id>
+        <link href="https://windhawk.net/mods/taskbar-grouping"/>
+        <updated>2024-08-09T17:18:31.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Another attempt at fixing multiple pinned items appearing for the same program.</li>
+<li>Added support for Windows 11 version 24H2.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic File Picker dialog 1.1.1]]></title>
+        <id>https://windhawk.net/mods/classic-file-picker-dialog#1b2a786aeb208e28f3aec941300c7710d20c403e</id>
+        <link href="https://windhawk.net/mods/classic-file-picker-dialog"/>
+        <updated>2024-08-04T10:23:27.000Z</updated>
+        <content type="html"><![CDATA[<p>Fix reference to another mod</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Qt scrollbar grippers 1.0]]></title>
+        <id>https://windhawk.net/mods/fix-qt-scrollbar-grippers#ad2ad2e2f07630fcdefb96a16bcc53695bb97490</id>
+        <link href="https://windhawk.net/mods/fix-qt-scrollbar-grippers"/>
+        <updated>2024-08-03T19:12:47.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="fixqtscrollbargrippers">Fix Qt scrollbar grippers</h1>
+<p><img src="https://raw.githubusercontent.com/kawapure/images/main/fix-qt-scrollbar-grippers.png" alt="Preview" /></p>
+<p>Qt applications compiled after 2021 (against Qt 6.1+) lack the scrollbar grippers (the lines in the middle),
+visible on custom visual styles, because the responsible drawing code was removed. Here is a lazy hack around
+that.</p>
+<p>These were removed in Qt <a href="https://github.com/qt/qtbase/commit/5f5c342924a0d9a2856b2f2d6db373e25723f2b0">because the developers thought that these changes wouldn't affect Windows 10</a>.
+They were wrong.</p>
+<h2 id="howtoenablethemodforaprogram">How to enable the mod for a program</h2>
+<p>This mod targets the Interactive Disassembler (IDA) by default. Other applications must be manually specified
+for injection.</p>
+<p>In Windhawk, go to the "Advanced" tab and scroll down to 
+"Custom process inclusion list". In that box, put the filename of the <code>.exe</code>. 
+The mod will immediately apply to those programs after you click "Save".</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cycle taskbar buttons with mouse wheel 1.1.4]]></title>
+        <id>https://windhawk.net/mods/taskbar-wheel-cycle#a480102c52e3cd16e1cea214913e1395155c82c0</id>
+        <link href="https://windhawk.net/mods/taskbar-wheel-cycle"/>
+        <updated>2024-07-30T18:58:22.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Fixed compatibility with update KB5040527.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Explorer navigation bar 1.0.4]]></title>
+        <id>https://windhawk.net/mods/explorer-frame-classic#8c10530a488a7c65b7b0815ee9c19131faece5b9</id>
+        <link href="https://windhawk.net/mods/explorer-frame-classic"/>
+        <updated>2024-07-29T18:05:51.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Adjusted spacing for Windows 11 update KB5040527.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskbar Disappearing Icon Fix for Windows 11 1.0]]></title>
+        <id>https://windhawk.net/mods/taskbar-disappearing-icon-fix-win11#329b6d6f4c8cbfbe7ee5aaafd53dc3922cd67a1c</id>
+        <link href="https://windhawk.net/mods/taskbar-disappearing-icon-fix-win11"/>
+        <updated>2024-07-29T08:55:42.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="taskbardisappearingiconfixforwindows11">Taskbar Disappearing Icon Fix for Windows 11</h1>
+<p>Tries to fix disappearing icon bug in Windows 11 taskbar while switching virtual desktops.</p>
+<p>Since I cannot reproduce this bug very reliably, this mod may not have fixed the bug entirely. Let me know if it still persists.</p>
+<p>Takeaway message:</p>
+<ul>
+<li>It is observed that hiding (<code>Visibility: Collapsed</code>) the invisible icon and then making it visible after a while will fix it.</li>
+<li>However, hiding the icon for a while results in flickering.</li>
+<li>The mod tries to flicker the icon only when the system tries to change its display name, typically while switching virtual desktops, making the flicker hardly visible.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UIRibbon Caption Icon Fix 1.0.1]]></title>
+        <id>https://windhawk.net/mods/ribbon-caption-icon-fix#826bbbc6eae09d97930483a2c62a5062f548e94c</id>
+        <link href="https://windhawk.net/mods/ribbon-caption-icon-fix"/>
+        <updated>2024-07-28T21:48:37.000Z</updated>
+        <content type="html"><![CDATA[<p>Changed the license.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Start Menu Styler 1.1.5]]></title>
+        <id>https://windhawk.net/mods/windows-11-start-menu-styler#b6c907a723f18b738c615933ec1834ef9009f18d</id>
+        <link href="https://windhawk.net/mods/windows-11-start-menu-styler"/>
+        <updated>2024-07-28T18:06:46.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Updated SideBySide2 theme with several fixes.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Taskbar Styler 1.3.7]]></title>
+        <id>https://windhawk.net/mods/windows-11-taskbar-styler#5ceffe5133b88ab09b00e41a846cd7a4bcb4e4c0</id>
+        <link href="https://windhawk.net/mods/windows-11-taskbar-styler"/>
+        <updated>2024-07-28T08:27:21.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added themes: DockLike, WinVista.</li>
+<li>Updated themes: TranslucentTaskbar, Squircle, RosePine, Bubbles.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Start Menu Styler 1.1.4]]></title>
+        <id>https://windhawk.net/mods/windows-11-start-menu-styler#2007927c9158132859b6d559104a7539742c74d7</id>
+        <link href="https://windhawk.net/mods/windows-11-start-menu-styler"/>
+        <updated>2024-07-28T08:26:51.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added themes: Fluent2Inspired, Windows10, Windows11_Metro10.</li>
+<li>Updated themes: SideBySide, SideBySide2, TranslucentStartMenu.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Notification Center Styler 1.1.1]]></title>
+        <id>https://windhawk.net/mods/windows-11-notification-center-styler#931b937d1cfa9782375c939c104de17bf0b5047a</id>
+        <link href="https://windhawk.net/mods/windows-11-notification-center-styler"/>
+        <updated>2024-07-28T08:25:30.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Updated the TranslucentShell theme.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskbar height and icon size 1.2.9]]></title>
+        <id>https://windhawk.net/mods/taskbar-icon-size#7e0bd27ae1d12ae639497fbc9b48bb791f98b078</id>
+        <link href="https://windhawk.net/mods/taskbar-icon-size"/>
+        <updated>2024-07-27T12:01:19.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Fixed compatibility with update KB5040527 for Windows 11 version 23H2.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accent Color Sync 1.31]]></title>
+        <id>https://windhawk.net/mods/accent-color-sync#940c28ba0fb4ccebb782988516dd6bb5a7f23de0</id>
+        <link href="https://windhawk.net/mods/accent-color-sync"/>
+        <updated>2024-07-27T00:57:34.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Set <em>Sync with DWM</em> option to enabled by default, and added notice for updating regarding this option in the readme.</li>
+<li>Update French and Spanish translation.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accent Color Sync 1.3]]></title>
+        <id>https://windhawk.net/mods/accent-color-sync#7c4df7d217e3e09907079ed0d5a13df0cf64d5f0</id>
+        <link href="https://windhawk.net/mods/accent-color-sync"/>
+        <updated>2024-07-23T06:47:42.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Fixed bugs in which OpenGlass opacity did not update when changing theme or clicking "Cancel" on the 'Color &amp; Appearance' page.</li>
+<li>Tweaked color balance calculation to be more accurate, including adding hotfixes for forcing certain values to match Windows 7's.</li>
+<li>Fixed crash bug from the default opacity value using the wrong calculation.</li>
+<li>Removed transparency option as OpenGlass-legacy still does not yet support opaque rendering.</li>
+<li>Added Spanish &amp; French translation (partial).</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accent Color Sync 1.2]]></title>
+        <id>https://windhawk.net/mods/accent-color-sync#120bd157b2a8eb1c99a1ebd8363686cbc40de906</id>
+        <link href="https://windhawk.net/mods/accent-color-sync"/>
+        <updated>2024-07-21T18:54:36.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Add option to sync with DWM's opacity value.</li>
+<li>Add support for x86 Windows.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accent Color Sync 1.1]]></title>
+        <id>https://windhawk.net/mods/accent-color-sync#45b792a63461caa9ac8c5864b83fcf26d724e549</id>
+        <link href="https://windhawk.net/mods/accent-color-sync"/>
+        <updated>2024-07-21T13:05:06.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><p>Add files via upload</p></li>
+<li><p>Update fix</p></li>
+<li><p>Add files via upload</p></li>
+</ul>]]></content>
+    </entry>
+</feed>
