@@ -2710,18 +2710,18 @@
                 "published": 1723291741000,
                 "rating": 0,
                 "ratingUsers": 0,
-                "updated": 1723291741000,
+                "updated": 1723471859000,
                 "users": 2
             },
             "metadata": {
                 "author": "Anixx",
-                "description": "Enables Windows 10 taskbar on Windows 11 versions 21H2 to 23H2 via registry",
+                "description": "Enables Windows 10 taskbar on Windows 11 versions 21H2 to 23H2",
                 "github": "https://github.com/Anixx",
                 "include": [
                     "explorer.exe"
                 ],
                 "name": "Windows 10 taskbar on Windows 11",
-                "version": "1.0"
+                "version": "1.0.1"
             }
         },
         "win32-tray-clock-experience": {
@@ -2754,7 +2754,7 @@
                 "published": 1690590362000,
                 "rating": 10,
                 "ratingUsers": 4,
-                "updated": 1719198375000,
+                "updated": 1723628610000,
                 "users": 328
             },
             "metadata": {
@@ -2769,7 +2769,7 @@
                     "explorer.exe"
                 ],
                 "name": "Windows 7 Alt+Tab Loader",
-                "version": "1.0.2"
+                "version": "1.0.3"
             }
         },
         "win7-command-bar": {
