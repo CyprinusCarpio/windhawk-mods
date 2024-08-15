@@ -987,10 +987,10 @@
         "explorerframe-fixes-for-win11-22h2plus": {
             "details": {
                 "defaultSorting": 0,
-                "published": 1723722247000,
+                "published": 1723726056000,
                 "rating": 0,
                 "ratingUsers": 0,
-                "updated": 1723724738000,
+                "updated": 1723726056000,
                 "users": 0
             },
             "metadata": {
@@ -2522,7 +2522,7 @@
                 "published": 1720335390000,
                 "rating": 10,
                 "ratingUsers": 1,
-                "updated": 1720335390000,
+                "updated": 1723672189000,
                 "users": 22
             },
             "metadata": {
@@ -2534,7 +2534,7 @@
                     "*"
                 ],
                 "name": "UIFILE Override",
-                "version": "1.0"
+                "version": "1.0.1"
             }
         },
         "unlock-taskmgr-server": {
@@ -2613,7 +2613,7 @@
                 "published": 1677867923000,
                 "rating": 10,
                 "ratingUsers": 17,
-                "updated": 1714854884000,
+                "updated": 1723672222000,
                 "users": 599
             },
             "metadata": {
@@ -2630,7 +2630,7 @@
                 ],
                 "name": "Virtual Desktop Preserve Taskbar Order",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0.2"
+                "version": "1.0.3"
             }
         },
         "visual-studio-anti-rich-header": {
