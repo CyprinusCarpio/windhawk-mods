@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://windhawk.net/</id>
     <title>Windhawk Mod Updates</title>
-    <updated>2024-08-15T11:54:42.000Z</updated>
+    <updated>2024-08-15T12:25:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://windhawk.net/"/>
     <subtitle>Updates in the official collection of Windhawk mods</subtitle>
     <icon>https://windhawk.net/favicon.ico</icon>
     <rights>Ramen Software</rights>
+    <entry>
+        <title type="html"><![CDATA[Explorerframe fixes for Win11 22H2+ 1.0]]></title>
+        <id>https://windhawk.net/mods/explorerframe-fixes-for-win11-22h2plus#dc84d00e63ea9a37f7fbfbe26459e0c1fd171ab8</id>
+        <link href="https://windhawk.net/mods/explorerframe-fixes-for-win11-22h2plus"/>
+        <updated>2024-08-15T12:25:38.000Z</updated>
+        <content type="html"><![CDATA[<p>Explorerframe fixes for Win11: fix hook variable names 2</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Explorerframe fixes for Win11 22H2+ 1.0]]></title>
         <id>https://windhawk.net/mods/explorerframe-fixes-for-win11-22h2plus#6d69a29a3e7b858a4e63f758638429d270fa93a7</id>
@@ -193,15 +200,6 @@ The mod will immediately apply to those programs after you click "Save".</p>]]><
         <updated>2024-07-28T08:25:30.000Z</updated>
         <content type="html"><![CDATA[<ul>
 <li>Updated the TranslucentShell theme.</li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taskbar height and icon size 1.2.9]]></title>
-        <id>https://windhawk.net/mods/taskbar-icon-size#7e0bd27ae1d12ae639497fbc9b48bb791f98b078</id>
-        <link href="https://windhawk.net/mods/taskbar-icon-size"/>
-        <updated>2024-07-27T12:01:19.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>Fixed compatibility with update KB5040527 for Windows 11 version 23H2.</li>
 </ul>]]></content>
     </entry>
 </feed>
