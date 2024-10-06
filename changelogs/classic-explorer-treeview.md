@@ -1,6 +1,8 @@
-## 1.1.1 ([Oct 6, 2024](https://github.com/ramensoftware/windhawk-mods/blob/5ab29e05a91f5c947b37e1aa78aee7a84ca9435d/mods/classic-explorer-treeview.wh.cpp))
+## 1.1.1 ([Oct 6, 2024](https://github.com/ramensoftware/windhawk-mods/blob/5d24a3a59980affaff8b2e34006a3a3d788e006c/mods/classic-explorer-treeview.wh.cpp))
 
-Classic Explorer Treeview: Update 1.1.1
+- Added a option to draw a gradient background for the header for XP-like looks
+- Added a context menu for the header like in real InfoBands
+- A theme-accurate button frame is now drawn for the X button
 
 ## 1.1 ([Apr 19, 2024](https://github.com/ramensoftware/windhawk-mods/blob/92c875fd5462637a9cd1da3b218bd839ba819dc4/mods/classic-explorer-treeview.wh.cpp))
 
