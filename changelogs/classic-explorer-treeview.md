@@ -1,3 +1,7 @@
+## 1.1.1 ([Oct 6, 2024](https://github.com/ramensoftware/windhawk-mods/blob/5ab29e05a91f5c947b37e1aa78aee7a84ca9435d/mods/classic-explorer-treeview.wh.cpp))
+
+Classic Explorer Treeview: Update 1.1.1
+
 ## 1.1 ([Apr 19, 2024](https://github.com/ramensoftware/windhawk-mods/blob/92c875fd5462637a9cd1da3b218bd839ba819dc4/mods/classic-explorer-treeview.wh.cpp))
 
 - Enabling the folders pane will now hide real InfoBands and vice versa
