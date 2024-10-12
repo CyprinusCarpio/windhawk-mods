@@ -407,19 +407,19 @@
                 "published": 1710657910000,
                 "rating": 6,
                 "ratingUsers": 1,
-                "updated": 1710657910000,
+                "updated": 1728376730000,
                 "users": 45
             },
             "metadata": {
                 "author": "aubymori",
                 "compilerOptions": "-lgdi32",
-                "description": "Fixes the appearance of list group headers in classic theme.",
+                "description": "Makes the appearance of list group headers in classic theme like Windows XP.",
                 "github": "https://github.com/aubymori",
                 "include": [
                     "*"
                 ],
                 "name": "Classic List Group Fix",
-                "version": "1.0.0"
+                "version": "1.1.0"
             }
         },
         "classic-maximized-windows-fix": {
@@ -608,7 +608,7 @@
                 "published": 1724346656000,
                 "rating": 0,
                 "ratingUsers": 0,
-                "updated": 1725358029000,
+                "updated": 1728717182000,
                 "users": 45
             },
             "metadata": {
@@ -621,7 +621,7 @@
                     "winlogon.exe"
                 ],
                 "name": "Classic Theme Enable with extended compatibility",
-                "version": "1.2.1"
+                "version": "1.3.1"
             }
         },
         "classic-theme-explorer-lite": {
@@ -1026,6 +1026,32 @@
                 "version": "1.0.0"
             }
         },
+        "explorer-context-menu-classic": {
+            "details": {
+                "defaultSorting": 0,
+                "published": 1728722786000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728722786000,
+                "users": 0
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lshlwapi",
+                "description": "Always show the classic context menu without having to select \"Show More Options\" or hold Shift",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic context menu on Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
         "explorer-frame-classic": {
             "details": {
                 "defaultSorting": 24920,
@@ -1338,6 +1364,29 @@
                 ],
                 "name": "Hide Search Bar",
                 "version": "1.0.2"
+            }
+        },
+        "hold-teams-meeting-thumbnail-in-place": {
+            "details": {
+                "defaultSorting": 0,
+                "published": 1728664619000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728664619000,
+                "users": 0
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lkernel32 -luser32",
+                "description": "Prevent Teams from periodically rearranging the meeting thumbnail window",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "ms-teams.exe",
+                    "msteams.exe"
+                ],
+                "name": "Hold Teams meeting thumbnail in place",
+                "version": "1.0"
             }
         },
         "icon-resource-redirect": {
@@ -2327,7 +2376,7 @@
                 "published": 1646604429000,
                 "rating": 10,
                 "ratingUsers": 87,
-                "updated": 1714851700000,
+                "updated": 1728681415000,
                 "users": 5639
             },
             "featured": true,
@@ -2345,7 +2394,7 @@
                 ],
                 "name": "Middle click to close on the taskbar",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0.6"
+                "version": "1.0.7"
             }
         },
         "taskbar-button-scroll": {
@@ -2452,7 +2501,7 @@
                 "published": 1646604429000,
                 "rating": 10,
                 "ratingUsers": 164,
-                "updated": 1723223911000,
+                "updated": 1728682340000,
                 "users": 7624
             },
             "featured": true,
@@ -2470,7 +2519,7 @@
                 ],
                 "name": "Disable grouping on the taskbar",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.3.5"
+                "version": "1.3.7"
             }
         },
         "taskbar-icon-size": {
@@ -2706,6 +2755,32 @@
                 "name": "Taskbar Thumbnail Reorder",
                 "twitter": "https://twitter.com/m417z",
                 "version": "1.0.8"
+            }
+        },
+        "taskbar-thumbnails": {
+            "details": {
+                "defaultSorting": 360,
+                "published": 1728339473000,
+                "rating": 10,
+                "ratingUsers": 4,
+                "updated": 1728339473000,
+                "users": 36
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Disable taskbar thumbnails on hover, or replace them with a list",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Disable Taskbar Thumbnails",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
             }
         },
         "taskbar-vertical": {
