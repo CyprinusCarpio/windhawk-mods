@@ -1,3 +1,20 @@
+## 1.2.16 ([Oct 26, 2024](https://github.com/ramensoftware/windhawk-mods/blob/dfade00e1c4f9d0047b6b040ed8a08860b2421fe/mods/taskbar-icon-size.wh.cpp))
+
+* Fixed a bug introduced in version 1.2.15, which mistakenly changes the width of elements such as the taskbar search box and the weather widget.
+
+## 1.2.15 ([Oct 25, 2024](https://github.com/ramensoftware/windhawk-mods/blob/08efbf944927215f3f73bceca8389a9eccd6659b/mods/taskbar-icon-size.wh.cpp))
+
+* Applying changes to the taskbar button width option no longer requires restarting explorer.
+
+## 1.2.14 ([Oct 18, 2024](https://github.com/ramensoftware/windhawk-mods/blob/f467a936801ea310cbb3cb2b28c6dc161ad8b035/mods/taskbar-icon-size.wh.cpp))
+
+* Fixed a crash in old builds of Windows 11 version 22H2.
+
+## 1.2.13 ([Oct 18, 2024](https://github.com/ramensoftware/windhawk-mods/blob/15a36d25f1e1d553934030cd6f4e0263a7eec31c/mods/taskbar-icon-size.wh.cpp))
+
+* The small 16x16 icons are now used for small icons. Previously the larger 32x32 icons were downscaled in some cases.
+* Improved tablet mode support and have the height applied in more cases.
+
 ## 1.2.12 ([Aug 26, 2024](https://github.com/ramensoftware/windhawk-mods/blob/7ad7264eae826e7b96ebb07e04770e175f5fee9e/mods/taskbar-icon-size.wh.cpp))
 
 * Fixed the weather/news widget content sometimes disappearing when large icons are used.

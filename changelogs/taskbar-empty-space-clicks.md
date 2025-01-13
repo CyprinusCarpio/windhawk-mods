@@ -1,3 +1,24 @@
+## 1.9 ([Dec 15, 2024](https://github.com/ramensoftware/windhawk-mods/blob/c18f329132507d6ed1a7517e5c1906d194e2bb34/mods/taskbar-empty-space-clicks.wh.cpp))
+
+Fixed explorer.exe freeze on Windows 24H2 when the combine taskbar buttons option changed - https://github.com/m1lhaus/windhawk-mods/issues/23.
+
+## 1.8 ([Dec 2, 2024](https://github.com/ramensoftware/windhawk-mods/blob/10dd219bec0369013eeeb9a3c0bee7efc3987f41/mods/taskbar-empty-space-clicks.wh.cpp))
+
+Added fallback method to open Start menu when Start button was not found on the taskbar (e.g. was hidden via other Windhawk mod) - temporary hotfix for https://github.com/m1lhaus/windhawk-mods/issues/21.
+
+## 1.7 ([Nov 23, 2024](https://github.com/ramensoftware/windhawk-mods/blob/2e30970216e691be9103eb6693f557e63eb39e45/mods/taskbar-empty-space-clicks.wh.cpp))
+
+- Start menu now opens on the same monitor where the taskbar was clicked - fixes https://github.com/m1lhaus/windhawk-mods/issues/19
+- Show Desktop feature fixes for Explorer Patcher taskbar - fixes https://github.com/m1lhaus/windhawk-mods/issues/10
+
+## 1.6 ([Nov 23, 2024](https://github.com/ramensoftware/windhawk-mods/blob/5e8a177134d706049012b8451736c782c753b1c0/mods/taskbar-empty-space-clicks.wh.cpp))
+
+Double tap on touch screens is now much more benevolent in terms of click position on the screen. It takes into account screen DPI since in hi-res screens (like my 14'' 4k laptop) the position diffs between clicks when performing double tap can be significant. Also, since middle mouse button click is not possible with touch and detecting touch gesture is quite cumbersome (to work reliably across both Windows 10 and Windows 11 taskbars), I implemented support for triple tap which activates middle mouse click action. Fixes https://github.com/m1lhaus/windhawk-mods/issues/11
+
+## 1.5 ([Oct 16, 2024](https://github.com/ramensoftware/windhawk-mods/blob/7f0e516d77c2e3f4f8ce32e6d2eee126d5456af6/mods/taskbar-empty-space-clicks.wh.cpp))
+
+* Fixed execution of task manager on Windows 11 24H2
+
 ## 1.4 ([Sep 23, 2024](https://github.com/ramensoftware/windhawk-mods/blob/24a59b390771c24436afc2ef3b64c145f8547082/mods/taskbar-empty-space-clicks.wh.cpp))
 
 * Fixed build errors introduced with latest version of Windhawk 1.5x

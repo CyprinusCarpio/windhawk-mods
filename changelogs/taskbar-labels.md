@@ -1,3 +1,25 @@
+## 1.3.5 ([Dec 13, 2024](https://github.com/ramensoftware/windhawk-mods/blob/37fce381dc197fbd1858b833d6ca0475acb40a54/mods/taskbar-labels.wh.cpp))
+
+* Undid the fix of thumbnail labels incorrectly showing or not showing when using some modes, since the fix had unintended side effects.
+* Reimplemented an option to always show thumbnail labels, so that it can still be used as a workaround.
+
+## 1.3.4 ([Dec 13, 2024](https://github.com/ramensoftware/windhawk-mods/blob/17e0c80c827a71f9a6a66079eaaae4dd289fecf9/mods/taskbar-labels.wh.cpp))
+
+* Fixed thumbnail labels incorrectly showing or not showing when using some modes.
+* Added an option to always show thumbnail labels. By default, thumbnail labels are shown on hover only if taskbar labels are hidden, but that might not be applied for all customizations that this mod offers.
+* Fixed restoring labels on mod unload.
+
+## 1.3.3 ([Dec 4, 2024](https://github.com/ramensoftware/windhawk-mods/blob/b0179b2e31ee74e302077bfb2de1b7cdfc6092d7/mods/taskbar-labels.wh.cpp))
+
+* The "Minimum taskbar item width" option can now be set to any value. Only 44 or larger values were previously supported.
+* Fixed a crash which could occur in some cases due to an incorrect running indicator width calculation.
+* Fixed taskbar settings (the "Combine taskbar buttons and hide labels" option) affecting some of the taskbar behavior, such as left click on combined items.
+
+## 1.3.2 ([Oct 20, 2024](https://github.com/ramensoftware/windhawk-mods/blob/0951986351d82332cd99a2335f16f6fbcb22033b/mods/taskbar-labels.wh.cpp))
+
+* Added an option exclude programs by application ids.
+* Fixed the "Minimum taskbar item width" option that stopped working after a recent update of Windows 11 version 23H2.
+
 ## 1.3.1 ([Sep 29, 2024](https://github.com/ramensoftware/windhawk-mods/blob/984a75a743bba52a247387158c47db2ede70f31a/mods/taskbar-labels.wh.cpp))
 
 * Improved badge placement (e.g. unread counters) in some cases.

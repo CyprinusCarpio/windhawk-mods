@@ -1,0 +1,4004 @@
+{
+    "app": {
+        "version": "1.5.1"
+    },
+    "mods": {
+        "accent-color-sync": {
+            "details": {
+                "defaultSorting": 2300,
+                "published": 1721392103000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1729667984000,
+                "users": 230
+            },
+            "metadata": {
+                "architecture": [
+                    "x86",
+                    "x86-64"
+                ],
+                "author": "CatmanFan / Mr._Lechkar",
+                "compilerOptions": "-lcomdlg32 -lversion",
+                "description": "Retour de la fonctionnalité d'opacité des couleurs du Panneau de configuration",
+                "github": "https://github.com/CatmanFan",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Accent Color Sync",
+                "version": "1.53"
+            }
+        },
+        "acrylic-effect-radius-changer": {
+            "details": {
+                "defaultSorting": 1970,
+                "published": 1694438292000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1694674676000,
+                "users": 197
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Dulappy",
+                "description": "Allows the user to change the Acrylic effect blur radius",
+                "github": "https://github.com/Dulappy",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Acrylic Effect Radius Changer",
+                "version": "1.1.0"
+            }
+        },
+        "aerexplorer": {
+            "details": {
+                "defaultSorting": 12130,
+                "published": 1713177639000,
+                "rating": 10,
+                "ratingUsers": 20,
+                "updated": 1724604763000,
+                "users": 1213
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32 -lcomctl32 -lole32 -loleaut32 -luxtheme -ldwmapi -DWINVER=0x0A00",
+                "description": "Various tweaks for Windows Explorer to make it more like older versions.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Aerexplorer",
+                "version": "1.6.4"
+            }
+        },
+        "aero-flyout-fix": {
+            "details": {
+                "defaultSorting": 9470,
+                "published": 1702982459000,
+                "rating": 10,
+                "ratingUsers": 9,
+                "updated": 1724502505000,
+                "users": 947
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32 -lshell32 -luxtheme -ldwmapi",
+                "description": "Applies thick borders to legacy system flyouts and make them float",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe",
+                    "SndVol.exe"
+                ],
+                "name": "Aero Flyout Fix",
+                "version": "1.1.0"
+            }
+        },
+        "aero-tray": {
+            "details": {
+                "defaultSorting": 7460,
+                "published": 1702929559000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1718988570000,
+                "users": 746
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lpsapi -lgdi32 -luxtheme -lshell32 -lcomctl32",
+                "description": "Restores Windows 7/8 tray overflow",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Aero Tray",
+                "version": "1.0.2"
+            }
+        },
+        "alt-tab-per-monitor": {
+            "details": {
+                "defaultSorting": 5970,
+                "published": 1730148779000,
+                "rating": 10,
+                "ratingUsers": 13,
+                "updated": 1730148779000,
+                "users": 597
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "L3r0y",
+                "compilerOptions": "-lole32 -loleaut32",
+                "description": "Pressing Alt+Tab shows all open windows on the primary display. This mod shows only the windows on the monitor where the cursor is.",
+                "github": "https://github.com/L3r0yThingz",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Alt+Tab per monitor",
+                "version": "1.0.0"
+            }
+        },
+        "balloon-sound-fix": {
+            "details": {
+                "defaultSorting": 864,
+                "published": 1732548916000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1732548916000,
+                "users": 96
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lwinmm",
+                "description": "Makes notifciation balloons play a sound again",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Balloon Sound Fix",
+                "version": "1.0.0"
+            }
+        },
+        "basic-themer": {
+            "details": {
+                "defaultSorting": 3160,
+                "published": 1719423839000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1720265128000,
+                "users": 316
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-ldwmapi -lwtsapi32",
+                "description": "Applies the Windows Basic theme to desktop windows",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Basic Themer",
+                "version": "1.1.0"
+            }
+        },
+        "ce-disable-process-button-flashing": {
+            "details": {
+                "defaultSorting": 108,
+                "published": 1717491726000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1717498560000,
+                "users": 12
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-masm=intel",
+                "description": "Disables the flashing on the Open Process button in Cheat Engine",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "cheatengine-x86_64.exe",
+                    "cheatengine-x86_64-SSE4-AVX2.exe",
+                    "cheatengine-i386.exe"
+                ],
+                "name": "CE Disable Process Button Flashing",
+                "version": "1.0.1"
+            }
+        },
+        "cef-titlebar-enabler-universal": {
+            "details": {
+                "defaultSorting": 1350,
+                "published": 1734116516000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1735140349000,
+                "users": 135
+            },
+            "metadata": {
+                "author": "Ingan121",
+                "compilerOptions": "-lcomctl32 -luxtheme",
+                "description": "Force native frames and title bars for CEF apps",
+                "github": "https://github.com/Ingan121",
+                "homepage": "https://www.ingan121.com/",
+                "include": [
+                    "spotify.exe",
+                    "cefclient.exe"
+                ],
+                "name": "CEF/Spotify Titlebar Enabler",
+                "twitter": "https://twitter.com/Ingan121",
+                "version": "0.5"
+            }
+        },
+        "center-titlebar": {
+            "details": {
+                "defaultSorting": 5750,
+                "published": 1693684488000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1693684488000,
+                "users": 575
+            },
+            "metadata": {
+                "author": "rounk-ctrl",
+                "description": "Center align the text in titlebar",
+                "github": "https://github.com/rounk-ctrl",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Center Titlebar",
+                "version": "1.0"
+            }
+        },
+        "change-explorer-default-location": {
+            "details": {
+                "defaultSorting": 2277,
+                "published": 1718734451000,
+                "rating": 9,
+                "ratingUsers": 3,
+                "updated": 1718734451000,
+                "users": 253
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lshell32",
+                "description": "Allows you to change what shell location or directory Explorer starts in.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Change Explorer Default Location",
+                "version": "1.0.0"
+            }
+        },
+        "chrome-ui-tweaks": {
+            "details": {
+                "defaultSorting": 4800,
+                "published": 1714820259000,
+                "rating": 10,
+                "ratingUsers": 8,
+                "updated": 1714820259000,
+                "users": 480
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Vasher",
+                "description": "Small UI tweaks to Google Chrome",
+                "github": "https://github.com/VasherMC",
+                "include": [
+                    "chrome.exe"
+                ],
+                "name": "Chrome UI Tweaks",
+                "version": "1.0.0"
+            }
+        },
+        "chrome-wheel-scroll-tabs": {
+            "details": {
+                "defaultSorting": 55380,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 69,
+                "updated": 1732217907000,
+                "users": 5538
+            },
+            "featured": true,
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lgdi32",
+                "description": "Use the mouse wheel while hovering over the tab bar to switch between tabs",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "chrome.exe",
+                    "msedge.exe",
+                    "opera.exe",
+                    "brave.exe"
+                ],
+                "name": "Chrome/Edge scroll tabs with mouse wheel",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1"
+            }
+        },
+        "chromium-ncpaint-fix": {
+            "details": {
+                "defaultSorting": 405,
+                "published": 1736070368000,
+                "rating": 9,
+                "ratingUsers": 3,
+                "updated": 1736070368000,
+                "users": 45
+            },
+            "metadata": {
+                "author": "Ingan121",
+                "compilerOptions": "-lcomctl32",
+                "description": "Fix Basic/Classic frames going black in Chromium/Electron/CEF apps",
+                "github": "https://github.com/Ingan121",
+                "homepage": "https://www.ingan121.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Chromium Frame Blackout Fix",
+                "twitter": "https://twitter.com/Ingan121",
+                "version": "0.1"
+            }
+        },
+        "classic-browser-fix": {
+            "details": {
+                "defaultSorting": 936,
+                "published": 1706897392000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1736247128000,
+                "users": 104
+            },
+            "metadata": {
+                "author": "Anixx",
+                "compilerOptions": "-luxtheme",
+                "description": "Forces the border from Aero Light theme to fix glitched border in Classic theme",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "msedge.exe",
+                    "chrome.exe",
+                    "chromium.exe",
+                    "Skype.exe",
+                    "steam.exe",
+                    "brave.exe",
+                    "chatgpt.exe"
+                ],
+                "name": "Fix browsers for Windows Classic theme",
+                "version": "1.2.2"
+            }
+        },
+        "classic-clock-button-behavior": {
+            "details": {
+                "defaultSorting": 621,
+                "published": 1725724030000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1725724030000,
+                "users": 69
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "description": "Makes the tray clock open the Date and Time CPL on double click",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Clock Button Behavior",
+                "version": "1.0.0"
+            }
+        },
+        "classic-conhost": {
+            "details": {
+                "defaultSorting": 2115,
+                "published": 1697883443000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1723931998000,
+                "users": 235
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luser32 -ldwmapi -luxtheme",
+                "description": "Forces classic theme and optionally client edge on console windows",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*",
+                    "conhost.exe"
+                ],
+                "name": "Classic Conhost",
+                "version": "1.0.3"
+            }
+        },
+        "classic-desktop-icons": {
+            "details": {
+                "defaultSorting": 5760,
+                "published": 1694937060000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1719771477000,
+                "users": 576
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-luser32 -luxtheme -lcomctl32",
+                "description": "Enables the classic selection style on desktop icons.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Desktop Icons",
+                "version": "1.3.0"
+            }
+        },
+        "classic-explorer-treeview": {
+            "details": {
+                "defaultSorting": 3310,
+                "published": 1708354597000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1728740886000,
+                "users": 331
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Waldemar",
+                "compilerOptions": "-lcomctl32 -lgdi32 -loleaut32 -lole32 -lshlwapi -lruntimeobject -luxtheme",
+                "description": "Modifies Folder Treeview in file explorer so as to make it look more classic.",
+                "github": "https://github.com/CyprinusCarpio",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Explorer Treeview",
+                "version": "1.1.2"
+            }
+        },
+        "classic-file-picker-dialog": {
+            "details": {
+                "defaultSorting": 2970,
+                "published": 1709574778000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1722767007000,
+                "users": 297
+            },
+            "metadata": {
+                "author": "Anixx",
+                "description": "Redirect the Windows Vista+ file picker to the Windows XP one",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "*"
+                ],
+                "name": "Classic File Picker dialog",
+                "version": "1.1.1"
+            }
+        },
+        "classic-list-group-fix": {
+            "details": {
+                "defaultSorting": 770,
+                "published": 1710657910000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1728376730000,
+                "users": 77
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32",
+                "description": "Makes the appearance of list group headers in classic theme like Windows XP.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Classic List Group Fix",
+                "version": "1.1.0"
+            }
+        },
+        "classic-maximized-windows-fix": {
+            "details": {
+                "defaultSorting": 630,
+                "published": 1694245393000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1703577817000,
+                "users": 70
+            },
+            "metadata": {
+                "author": "ephemeralViolette",
+                "compilerOptions": "-lgdi32 -luser32",
+                "description": "Fix maximized windows having borders that spill out onto additional displays when using the classic theme.",
+                "exclude": [
+                    "windhawk.exe",
+                    "conhost.exe",
+                    "consent.exe",
+                    "dwm.exe",
+                    "lsass.exe",
+                    "winlogon.exe",
+                    "logonui.exe",
+                    "ApplicationFrameHost.exe",
+                    "gameinputsvc.exe",
+                    "svchost.exe"
+                ],
+                "github": "https://github.com/ephemeralViolette",
+                "include": [
+                    "*"
+                ],
+                "name": "Fix Classic Theme Maximized Windows",
+                "version": "2.1"
+            }
+        },
+        "classic-menus": {
+            "details": {
+                "defaultSorting": 4680,
+                "published": 1699156598000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1726951327000,
+                "users": 468
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luxtheme",
+                "description": "Makes menus classic themed while keeping other controls themed",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Classic Menus",
+                "version": "1.1.0"
+            }
+        },
+        "classic-taskbar-background-fix": {
+            "details": {
+                "defaultSorting": 396,
+                "published": 1723893068000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1725517602000,
+                "users": 44
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-luser32 -lgdi32 -luxtheme",
+                "description": "Fixes Taskbar background in classic theme by replacing black background with a classic button face colour",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Taskbar background fix",
+                "version": "1.0.3"
+            }
+        },
+        "classic-taskbar-buttons-lite": {
+            "details": {
+                "defaultSorting": 1250,
+                "published": 1708239757000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1723930010000,
+                "users": 125
+            },
+            "metadata": {
+                "author": "Anixx",
+                "compilerOptions": "-lgdi32",
+                "description": "Lightweight mod, restoring the 3D buttons in classic theme",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Taskbar 3D buttons Lite",
+                "version": "1.3"
+            }
+        },
+        "classic-taskbar-buttons-lite-vs-without-spacing": {
+            "details": {
+                "defaultSorting": 684,
+                "published": 1712417550000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1712417550000,
+                "users": 76
+            },
+            "metadata": {
+                "author": "OrthodoxWin32",
+                "compilerOptions": "-lgdi32 -lUxTheme",
+                "description": "Restoring the 3D taskbar buttons with support for visual styles and the taskbar without labels",
+                "github": "https://github.com/OrthodoxWindows",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Taskbar 3D buttons with extended compatibility",
+                "version": "1.0"
+            }
+        },
+        "classic-taskbar-context-menu": {
+            "details": {
+                "defaultSorting": 2990,
+                "published": 1676627538000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1677657525000,
+                "users": 299
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-lgdi32 -lcomctl32",
+                "description": "Restores the non-immersive taskbar context menu",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Non Immersive Taskbar Context Menu",
+                "version": "1.0.3"
+            }
+        },
+        "classic-taskdlg-fix": {
+            "details": {
+                "defaultSorting": 1260,
+                "published": 1699388969000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1699388969000,
+                "users": 140
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Fixes task dialog buttons in classic theme",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Classic Task Dialog Fix",
+                "version": "1.1.0"
+            }
+        },
+        "classic-theme-enable": {
+            "details": {
+                "defaultSorting": 1270,
+                "published": 1706702888000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1731151885000,
+                "users": 127
+            },
+            "metadata": {
+                "author": "Anixx",
+                "compilerOptions": "-lntdll",
+                "description": "Disables theming by closing the handle",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "winlogon.exe"
+                ],
+                "name": "Enable Classic Theme by handle method",
+                "version": "1.0.4"
+            }
+        },
+        "classic-theme-enable-with-extended-compatibility": {
+            "details": {
+                "defaultSorting": 621,
+                "published": 1724346656000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728717182000,
+                "users": 69
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lntdll -lkernel32 -lwtsapi32",
+                "description": "Enables classic theme. Supports Remote Desktop sessions and is compatible with early / system start of Windhawk.",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "winlogon.exe"
+                ],
+                "name": "Classic Theme Enable with extended compatibility",
+                "version": "1.3.1"
+            }
+        },
+        "classic-theme-explorer-lite": {
+            "details": {
+                "defaultSorting": 387,
+                "published": 1707344115000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728198395000,
+                "users": 43
+            },
+            "metadata": {
+                "author": "Anixx",
+                "compilerOptions": "-luxtheme -lgdi32",
+                "description": "Classic Theme mitigations for Explorer ported from Explorer Patcher",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Theme Explorer Lite",
+                "version": "1.1.2"
+            }
+        },
+        "classic-theme-transparency-fix": {
+            "details": {
+                "defaultSorting": 2710,
+                "published": 1711437875000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1711437875000,
+                "users": 271
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Fixes transparency glitches in Classic theme",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "*",
+                    "dllhost.exe"
+                ],
+                "name": "Classic theme transparency fix",
+                "version": "1.0"
+            }
+        },
+        "classic-uwp-fix": {
+            "details": {
+                "defaultSorting": 2230,
+                "published": 1706895197000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1709191248000,
+                "users": 223
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Ingan121",
+                "description": "Fix for UWPs breaking with Classic theme",
+                "github": "https://github.com/Ingan121",
+                "homepage": "https://www.ingan121.com/",
+                "include": [
+                    "ApplicationFrameHost.exe",
+                    "explorer.exe",
+                    "ShellAppRuntime.exe",
+                    "CustomShellHost.exe"
+                ],
+                "name": "Classic UWP Fix",
+                "version": "0.3"
+            }
+        },
+        "clientedge-in-apps": {
+            "details": {
+                "defaultSorting": 1485,
+                "published": 1708969659000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1720265473000,
+                "users": 165
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Adds 3D border (WS_EX_CLIENTEDGE style) to some windows to look better in Classic theme.",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "*"
+                ],
+                "name": "Clientedge Everywhere",
+                "version": "1.1.0"
+            }
+        },
+        "custom-desktop-watermark": {
+            "details": {
+                "defaultSorting": 735,
+                "published": 1726697955000,
+                "rating": 5,
+                "ratingUsers": 3,
+                "updated": 1731717697000,
+                "users": 147
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32 -DWINVER=0x0A00",
+                "description": "Lets you set your own desktop watermark text",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Custom Desktop Watermark",
+                "version": "1.0.2"
+            }
+        },
+        "custom-shutdown-dialog": {
+            "details": {
+                "defaultSorting": 1485,
+                "published": 1699159361000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1731264428000,
+                "users": 165
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "description": "Override the classic shutdown dialog in Explorer with your own",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Custom Shutdown Dialog",
+                "version": "1.1.1"
+            }
+        },
+        "dark-menus": {
+            "details": {
+                "defaultSorting": 11061,
+                "published": 1733519825000,
+                "rating": 9,
+                "ratingUsers": 19,
+                "updated": 1736093145000,
+                "users": 1229
+            },
+            "metadata": {
+                "author": "Mgg Sk",
+                "description": "Enables dark mode for all win32 menus.",
+                "github": "https://github.com/MGGSK",
+                "include": [
+                    "*"
+                ],
+                "name": "Dark mode context menus",
+                "version": "1.1"
+            }
+        },
+        "desktop-icons-view": {
+            "details": {
+                "defaultSorting": 710,
+                "published": 1729369429000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1730069661000,
+                "users": 71
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomdlg32",
+                "description": "Change desktop icons view to list, details, small icons, or tiles",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Desktop icons view",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.2"
+            }
+        },
+        "desktop-watermark-tweaks": {
+            "details": {
+                "defaultSorting": 2030,
+                "published": 1714023231000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1714023231000,
+                "users": 203
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "description": "Tweaks for the desktop watermark",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Desktop Watermark Tweaks",
+                "version": "1.0.0"
+            }
+        },
+        "disable-feedback-hub-hotkey": {
+            "details": {
+                "defaultSorting": 19800,
+                "published": 1677930361000,
+                "rating": 10,
+                "ratingUsers": 16,
+                "updated": 1677930361000,
+                "users": 1980
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Disables the feedback hub (Win+F) hotkey in Windows",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Disable Feedback Hub Hotkey",
+                "version": "1.0.0"
+            }
+        },
+        "disable-immersive-context-menus": {
+            "details": {
+                "defaultSorting": 6380,
+                "published": 1678030978000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1678030978000,
+                "users": 638
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Disables immersive context menus in File Explorer",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "*"
+                ],
+                "name": "Disable Immersive Context Menus",
+                "version": "1.0.0"
+            }
+        },
+        "disable-navigation-bar": {
+            "details": {
+                "defaultSorting": 870,
+                "published": 1677864781000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1677864781000,
+                "users": 87
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Disables the navigation bar in file explorer",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "*"
+                ],
+                "name": "Disable Navigation Bar",
+                "version": "1.0.0"
+            }
+        },
+        "disable-office-hotkeys": {
+            "details": {
+                "defaultSorting": 4608,
+                "published": 1677930544000,
+                "rating": 9,
+                "ratingUsers": 4,
+                "updated": 1677930544000,
+                "users": 512
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Disables the office hotkeys (Ctrl+Shift+Alt+Win combinations) in Windows",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Disable Office Hotkeys",
+                "version": "1.0.0"
+            }
+        },
+        "disable-rounded-corners": {
+            "details": {
+                "defaultSorting": 14090,
+                "published": 1702842224000,
+                "rating": 10,
+                "ratingUsers": 19,
+                "updated": 1703085867000,
+                "users": 1409
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "description": "A simple mod to disable window rounded corners in Windows 11",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Disable rounded corners in Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "disable-virtual-desktop-transition": {
+            "details": {
+                "defaultSorting": 280,
+                "published": 1733758433000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1733758433000,
+                "users": 28
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Isabella Lulamoon (kawapure)",
+                "compilerOptions": "-lkernel32 -lwevtapi",
+                "description": "Disables the animation when switching between virtual desktops on Windows 10.",
+                "github": "https://github.com/kawapure",
+                "homepage": "https://kawapure.github.io",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Disable Virtual Desktop Transition Animation",
+                "twitter": "https://twitter.com/kawaipure",
+                "version": "1.0"
+            }
+        },
+        "dot-hide": {
+            "details": {
+                "defaultSorting": 3980,
+                "published": 1705055192000,
+                "rating": 10,
+                "ratingUsers": 6,
+                "updated": 1705055192000,
+                "users": 398
+            },
+            "metadata": {
+                "author": "Tomer Zait (realgam3)",
+                "description": "Keep dot files and directories out of sight, Because it wouldn't happen in Linux...",
+                "github": "https://github.com/realgam3",
+                "homepage": "https://realgam3.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Dot Hide",
+                "twitter": "https://twitter.com/realgam3",
+                "version": "1.0.0"
+            }
+        },
+        "dwm-ghost-mods": {
+            "details": {
+                "defaultSorting": 1610,
+                "published": 1690150313000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1703564688000,
+                "users": 161
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "ephemeralViolette",
+                "compilerOptions": "-ldwmapi -luxtheme",
+                "description": "Allows you to use basic or classic theme with your DWM ghost windows and more!",
+                "github": "https://github.com/ephemeralViolette",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "DWM Ghost Mods",
+                "version": "1.2"
+            }
+        },
+        "dwm-unextend-frames": {
+            "details": {
+                "defaultSorting": 1602,
+                "published": 1700542256000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1720203182000,
+                "users": 178
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Makes applications think DWM is disabled",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "DWM Unextend Frames",
+                "version": "1.3.0"
+            }
+        },
+        "edge-window-tab-manager-block": {
+            "details": {
+                "defaultSorting": 4230,
+                "published": 1720468060000,
+                "rating": 10,
+                "ratingUsers": 8,
+                "updated": 1720468060000,
+                "users": 423
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lkernel32",
+                "description": "Blocks Edge window Alt-Tab manager",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "msedge.exe"
+                ],
+                "name": "Prevent Edge from lagging your Taskbar process",
+                "version": "1.0"
+            }
+        },
+        "eradicate-immersive-menus": {
+            "details": {
+                "defaultSorting": 13660,
+                "published": 1699155263000,
+                "rating": 10,
+                "ratingUsers": 13,
+                "updated": 1713243502000,
+                "users": 1366
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luser32",
+                "description": "Gets rid of immersive menus system-wide",
+                "exclude": [
+                    "windhawk.exe",
+                    "dwm.exe",
+                    "ShellExperienceHost.exe",
+                    "wlanext.exe",
+                    "svchost.exe",
+                    "SearchIndexer.exe",
+                    "consent.exe"
+                ],
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Eradicate Immersive Menus",
+                "version": "1.1.0"
+            }
+        },
+        "explorer-32px-icons": {
+            "details": {
+                "defaultSorting": 3400,
+                "published": 1699148737000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1699148737000,
+                "users": 340
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Makes the \"Medium icons\" view in Explorer 32px again",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Explorer 32px Icons",
+                "version": "1.0.0"
+            }
+        },
+        "explorer-context-menu-classic": {
+            "details": {
+                "defaultSorting": 33020,
+                "published": 1728722786000,
+                "rating": 10,
+                "ratingUsers": 31,
+                "updated": 1729252335000,
+                "users": 3302
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "description": "Always show the classic context menu without having to select \"Show More Options\" or hold Shift",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic context menu on Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "explorer-details-better-file-sizes": {
+            "details": {
+                "defaultSorting": 139950,
+                "published": 1730231151000,
+                "rating": 10,
+                "ratingUsers": 201,
+                "updated": 1734531198000,
+                "users": 13995
+            },
+            "featured": true,
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lpropsys",
+                "description": "Optional improvements: show folder sizes, use MB/GB for large files (by default, all sizes are shown in KBs), use IEC terms (such as KiB instead of KB)",
+                "exclude": [
+                    "conhost.exe",
+                    "Plex.exe",
+                    "Plex Media Server.exe"
+                ],
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Better file sizes in Explorer details",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.4.7"
+            }
+        },
+        "explorer-frame-classic": {
+            "details": {
+                "defaultSorting": 33860,
+                "published": 1696691422000,
+                "rating": 10,
+                "ratingUsers": 54,
+                "updated": 1729887134000,
+                "users": 3386
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lversion",
+                "description": "Restores the classic Explorer navigation bar to the version before the Windows 11 \"Moments 4\" update",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Classic Explorer navigation bar",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.6"
+            }
+        },
+        "explorer-name-windows": {
+            "details": {
+                "defaultSorting": 3200,
+                "published": 1712874444000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1712874444000,
+                "users": 320
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lgdi32",
+                "description": "Assign custom names to explorer windows, just like in Chrome",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Name explorer windows",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "explorerframe-fixes-for-win11-22h2plus": {
+            "details": {
+                "defaultSorting": 5980,
+                "published": 1723726056000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1723726056000,
+                "users": 598
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Waldemar",
+                "compilerOptions": "-lcomctl32 -lgdi32",
+                "description": "Fixes three problems with file explorer",
+                "github": "https://github.com/CyprinusCarpio",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Explorerframe fixes for Win11 22H2+",
+                "version": "1.0"
+            }
+        },
+        "extension-change-no-warning": {
+            "details": {
+                "defaultSorting": 30030,
+                "published": 1713878371000,
+                "rating": 10,
+                "ratingUsers": 37,
+                "updated": 1713878371000,
+                "users": 3003
+            },
+            "metadata": {
+                "author": "m417z",
+                "description": "When a file is renamed and its extension is changed, a confirmation warning appears, this mod turns it off",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Turn off change file extension warning",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "fake-explorer-path": {
+            "details": {
+                "defaultSorting": 1090,
+                "published": 1725191708000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1725195955000,
+                "users": 109
+            },
+            "metadata": {
+                "author": "Anixx",
+                "description": "Allows to run explorer.exe in taskbar mode from any location",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Fake Explorer path",
+                "version": "1.0.1"
+            }
+        },
+        "fake-high-contrast": {
+            "details": {
+                "defaultSorting": 160,
+                "published": 1707753405000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1707753405000,
+                "users": 16
+            },
+            "metadata": {
+                "author": "Ingan121",
+                "description": "Fake High Contrast status for apps",
+                "exclude": [
+                    "explorer.exe",
+                    "dwm.exe"
+                ],
+                "github": "https://github.com/Ingan121",
+                "homepage": "https://www.ingan121.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Fake High Contrast",
+                "version": "1.0.0"
+            }
+        },
+        "fix-basic-caption-text": {
+            "details": {
+                "defaultSorting": 3440,
+                "published": 1700125078000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1731656219000,
+                "users": 344
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luser32 -luxtheme",
+                "description": "Fixes non-DWM and UIRibbon frames having incorrect caption colors",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Fix Basic Caption Text",
+                "version": "1.1.1"
+            }
+        },
+        "fix-darkmode-listviews": {
+            "details": {
+                "defaultSorting": 12400,
+                "published": 1697208051000,
+                "rating": 10,
+                "ratingUsers": 9,
+                "updated": 1697208051000,
+                "users": 1240
+            },
+            "metadata": {
+                "author": "Reabstraction",
+                "compilerOptions": "-luxtheme -lgdi32",
+                "description": "Fixes ListViews in dark mode",
+                "github": "https://github.com/Reabstraction",
+                "include": [
+                    "*"
+                ],
+                "name": "Fix Darkmode ListViews",
+                "version": "1.0"
+            }
+        },
+        "fix-qt-scrollbar-grippers": {
+            "details": {
+                "defaultSorting": 460,
+                "published": 1722712367000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1729865391000,
+                "users": 46
+            },
+            "metadata": {
+                "author": "kawapure",
+                "compilerOptions": "-lcomdlg32 -luxtheme",
+                "description": "Fixes scrollbar grippers in Qt 6.1+",
+                "github": "https://github.com/kawapure",
+                "homepage": "https://kawapure.github.io",
+                "include": [
+                    "ida64.exe",
+                    "ida.exe"
+                ],
+                "name": "Fix Qt scrollbar grippers",
+                "twitter": "https://twitter.com/kawaipure",
+                "version": "1.1"
+            }
+        },
+        "fix-strips": {
+            "details": {
+                "defaultSorting": 180,
+                "published": 1726033105000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1726033105000,
+                "users": 20
+            },
+            "metadata": {
+                "author": "OliveIsTyping",
+                "compilerOptions": "-lcomdlg32",
+                "description": "Port of the fixstrips AHK script that fixes some classic theme issues with Explorer7",
+                "github": "https://github.com/OliviaIsTyping",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "FixStrips WH Port",
+                "version": "1.0"
+            }
+        },
+        "flight-simulator-focus-helper": {
+            "details": {
+                "defaultSorting": 252,
+                "published": 1688766152000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1689709104000,
+                "users": 28
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32",
+                "description": "Makes the game window active on mouse hover and inactive on mouse leave",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "FlightSimulator.exe"
+                ],
+                "name": "Flight Simulator window focus helper",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1"
+            }
+        },
+        "force-chinese-ime": {
+            "details": {
+                "defaultSorting": 32,
+                "published": 1730564952000,
+                "rating": 2,
+                "ratingUsers": 1,
+                "updated": 1730807551000,
+                "users": 16
+            },
+            "metadata": {
+                "author": "u3l6",
+                "compilerOptions": "-limm32",
+                "description": "Forces Microsoft Pinyin IME to stay in Chinese mode",
+                "github": "https://github.com/u3l6",
+                "include": [
+                    "*"
+                ],
+                "name": "Force Chinese IME Mode",
+                "twitter": "https://x.com/u_3l6",
+                "version": "1.0.1"
+            }
+        },
+        "force-thick-frames": {
+            "details": {
+                "defaultSorting": 7119,
+                "published": 1688844521000,
+                "rating": 9,
+                "ratingUsers": 4,
+                "updated": 1688844521000,
+                "users": 791
+            },
+            "metadata": {
+                "author": "Alcatel",
+                "description": "Force windows to have thick frames like in Windows Vista/7",
+                "exclude": [
+                    "notepad++.exe"
+                ],
+                "github": "https://github.com/arukateru",
+                "include": [
+                    "*"
+                ],
+                "name": "Force thick frames",
+                "version": "2"
+            }
+        },
+        "hide-action-center-icon": {
+            "details": {
+                "defaultSorting": 459,
+                "published": 1710579606000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1735906077000,
+                "users": 51
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Hides Action Center icon from Win10 taskbar",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Hide Action Center icon",
+                "version": "1.0.1"
+            }
+        },
+        "hide-search-bar": {
+            "details": {
+                "defaultSorting": 1962,
+                "published": 1676481572000,
+                "rating": 6,
+                "ratingUsers": 1,
+                "updated": 1677950123000,
+                "users": 327
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-lcomctl32",
+                "description": "Removes the search bar that is next to the file explorer",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Hide Search Bar",
+                "version": "1.0.2"
+            }
+        },
+        "hold-teams-meeting-thumbnail-in-place": {
+            "details": {
+                "defaultSorting": 288,
+                "published": 1728664619000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728664619000,
+                "users": 32
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lkernel32 -luser32",
+                "description": "Prevent Teams from periodically rearranging the meeting thumbnail window",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "ms-teams.exe",
+                    "msteams.exe"
+                ],
+                "name": "Hold Teams meeting thumbnail in place",
+                "version": "1.0"
+            }
+        },
+        "icon-resource-redirect": {
+            "details": {
+                "defaultSorting": 8937,
+                "published": 1713005692000,
+                "rating": 9,
+                "ratingUsers": 23,
+                "updated": 1731273169000,
+                "users": 993
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lshlwapi",
+                "description": "Define alternative files for loading various resources (e.g. icons in imageres.dll) for simple theming without having to modify system files",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Resource Redirect",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.9"
+            }
+        },
+        "icon16bitfix": {
+            "details": {
+                "defaultSorting": 2750,
+                "published": 1708239950000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1708280471000,
+                "users": 275
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Adds support for icons of 16-bit (Win16) applications in File Explorer",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Icons of Win16 apps in Explorer",
+                "version": "1.0.1"
+            }
+        },
+        "ignore-focus-loss": {
+            "details": {
+                "defaultSorting": 4491,
+                "published": 1673179779000,
+                "rating": 9,
+                "ratingUsers": 3,
+                "updated": 1673179779000,
+                "users": 499
+            },
+            "metadata": {
+                "author": "Vasher",
+                "compilerOptions": "-lcomctl32",
+                "description": "Make games believe they're always on top",
+                "github": "https://github.com/VasherMC",
+                "name": "Ignore Focus Loss",
+                "version": "1.0.0"
+            }
+        },
+        "isretailready-false": {
+            "details": {
+                "defaultSorting": 171,
+                "published": 1718890611000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1718890611000,
+                "users": 19
+            },
+            "metadata": {
+                "author": "Jevil7452",
+                "description": "Enables the normally hidden \"SecureBoot isn't configured correctly\" watermark",
+                "github": "https://github.com/Jevil7452",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "SecureBoot Warning Watermark Enabler",
+                "version": "1"
+            }
+        },
+        "legacy-alt-tab": {
+            "details": {
+                "defaultSorting": 750,
+                "published": 1723297622000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1736441410000,
+                "users": 75
+            },
+            "metadata": {
+                "author": "Anixx",
+                "description": "Enables legacy Alt+Tab dialog from Windows XP and Windows 2000",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Legacy Alt+Tab dialog",
+                "version": "1.0.2"
+            }
+        },
+        "legacy-file-copy": {
+            "details": {
+                "defaultSorting": 13040,
+                "published": 1675346734000,
+                "rating": 10,
+                "ratingUsers": 12,
+                "updated": 1675346734000,
+                "users": 1304
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "rounk-ctrl",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject -ldbghelp",
+                "description": "Restores the Windows 7 file copy dialog",
+                "github": "https://github.com/rounk-ctrl",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Legacy File Copy",
+                "version": "1.0.0"
+            }
+        },
+        "legacy-search-bar": {
+            "details": {
+                "defaultSorting": 1233,
+                "published": 1700726411000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1700726411000,
+                "users": 137
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Restores the search box from before Windows 10, version 1909",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Legacy Search Bar",
+                "version": "1.0.0"
+            }
+        },
+        "lines-in-mmc": {
+            "details": {
+                "defaultSorting": 600,
+                "published": 1725108288000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1725108584000,
+                "users": 60
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Adds dotted lines to the TreeView in Microsoft Management Console and Device Manager",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "mmc.exe"
+                ],
+                "name": "Lines in MMC and Device Manager",
+                "version": "1.0.1"
+            }
+        },
+        "lm-close-windbg-file-changed": {
+            "details": {
+                "defaultSorting": 135,
+                "published": 1650561701000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1650561701000,
+                "users": 15
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "description": "Automatically rejects (or accepts) the dialog from WinDbg telling that a file is changed",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "windbg.exe"
+                ],
+                "name": "Close WinDbg's file changed dialog",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "1.0"
+            }
+        },
+        "lm-mediakey-explorer-fix": {
+            "details": {
+                "defaultSorting": 3370,
+                "published": 1664663103000,
+                "rating": 10,
+                "ratingUsers": 6,
+                "updated": 1728139542000,
+                "users": 337
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "description": "Fix the Media 'play' key being suppressed in Explorer when a file is selected.",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Play-Media-Key fix in Explorer",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "1.1"
+            }
+        },
+        "lm-ppee-wow64": {
+            "details": {
+                "defaultSorting": 720,
+                "published": 1696362574000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1696852054000,
+                "users": 80
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "description": "Disables Wow64 filesystem redirection when loading a file in PPEE or ResourceHacker",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "ppee.exe",
+                    "resourcehacker.exe"
+                ],
+                "name": "Fix PPEE/ResourceHacker Wow64 filesystem redirection",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "1.2"
+            }
+        },
+        "lm-regedit-multi-instance": {
+            "details": {
+                "defaultSorting": 2300,
+                "published": 1686183999000,
+                "rating": 10,
+                "ratingUsers": 7,
+                "updated": 1686183999000,
+                "users": 230
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "description": "Allow multiple instances of regedit",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "regedit.exe"
+                ],
+                "name": "Multi-instance regedit",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "1.0"
+            }
+        },
+        "lm-vmplayer-vnc": {
+            "details": {
+                "defaultSorting": 530,
+                "published": 1672692734000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1672692734000,
+                "users": 53
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "description": "Enable the builtin VNC in VMWare Player",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "vmplayer.exe"
+                ],
+                "name": "Enable VMPlayer's VNC",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "1.0"
+            }
+        },
+        "lm-vs-solution-icon": {
+            "details": {
+                "defaultSorting": 1200,
+                "published": 1650743841000,
+                "rating": 10,
+                "ratingUsers": 4,
+                "updated": 1660152079000,
+                "users": 120
+            },
+            "metadata": {
+                "author": "Mark Jansen",
+                "compilerOptions": "-lole32 -lgdi32 -lcomctl32",
+                "description": "Add an icon overlay on the Visual Studio task bar icon",
+                "github": "https://github.com/learn-more",
+                "include": [
+                    "devenv.exe"
+                ],
+                "name": "Visual Studio Solution Icon",
+                "twitter": "https://twitter.com/learn_more",
+                "version": "0.7"
+            }
+        },
+        "logon-logoff-shutdown-sounds": {
+            "details": {
+                "defaultSorting": 9270,
+                "published": 1725792150000,
+                "rating": 10,
+                "ratingUsers": 15,
+                "updated": 1729806251000,
+                "users": 927
+            },
+            "metadata": {
+                "author": "Toru the Red Fox",
+                "compilerOptions": "-lcomdlg32 -lshlwapi -lwinmm -luser32",
+                "description": "Restores the logon, logoff and shutdown sounds from earlier versions of Windows",
+                "github": "https://github.com/TorutheRedFox",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Logon, Logoff & Shutdown Sounds Restored",
+                "twitter": "https://twitter.com/TorutheRedFox",
+                "version": "1.0.2"
+            }
+        },
+        "maintain-flux-colour-temperature": {
+            "details": {
+                "defaultSorting": 440,
+                "published": 1720345866000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1720345866000,
+                "users": 44
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lkernel32",
+                "description": "Keeps your preferred f.lux colour temperature settings, eliminating automatic changes",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "flux.exe"
+                ],
+                "name": "Maintain colour temperature of f.lux",
+                "version": "1.0"
+            }
+        },
+        "modernize-folder-picker-dialog": {
+            "details": {
+                "defaultSorting": 77190,
+                "published": 1716835371000,
+                "rating": 10,
+                "ratingUsers": 70,
+                "updated": 1716835371000,
+                "users": 7719
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lole32 -loleaut32",
+                "description": "Replaces the classic \"Browse For Folder\" dialog",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Modernize Folder Picker Dialog",
+                "version": "1.0.0"
+            }
+        },
+        "more-space-in-language-indicator": {
+            "details": {
+                "defaultSorting": 600,
+                "published": 1680351727000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1680351727000,
+                "users": 60
+            },
+            "metadata": {
+                "author": "m417z",
+                "description": "Enables to see two lines in the language indicator with small taskbar icons (Windows 10)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "More space in language indicator",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "msg-box-font-fix": {
+            "details": {
+                "defaultSorting": 9160,
+                "published": 1693642476000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1726520140000,
+                "users": 916
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luser32 -lgdi32 -lcomctl32 -DWINVER=0x0A00",
+                "description": "Fixes the MessageBox font size and optionally make them like Windows XP",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Message Box Fix",
+                "version": "2.0.0"
+            }
+        },
+        "mspaint-dark": {
+            "details": {
+                "defaultSorting": 18396,
+                "published": 1675042345000,
+                "rating": 9,
+                "ratingUsers": 16,
+                "updated": 1675107343000,
+                "users": 2044
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "ahmed605",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject",
+                "description": "Forcing dark mode in the new Microsoft Paint",
+                "github": "https://github.com/ahmed605",
+                "homepage": "https://ahmed-walid.tk/",
+                "include": [
+                    "mspaint.exe"
+                ],
+                "name": "Dark Paint",
+                "twitter": "https://twitter.com/AhmedWalid605",
+                "version": "1.0.1"
+            }
+        },
+        "no-flash-window": {
+            "details": {
+                "defaultSorting": 1970,
+                "published": 1702607629000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1702607629000,
+                "users": 197
+            },
+            "metadata": {
+                "author": "m417z",
+                "description": "Prevent programs from flashing their windows on the taskbar",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "NoFlashWindow",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "no-focus-rectangle": {
+            "details": {
+                "defaultSorting": 36530,
+                "published": 1676392345000,
+                "rating": 10,
+                "ratingUsers": 71,
+                "updated": 1677162292000,
+                "users": 3653
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-lcomdlg32",
+                "description": "Removes the focus rectangle",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "No Focus Rectangle",
+                "version": "1.0.2"
+            }
+        },
+        "no-hidden-cursor": {
+            "details": {
+                "defaultSorting": 1180,
+                "published": 1677399865000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1677399865000,
+                "users": 118
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Prevent programs (and games) from hiding your cursor",
+                "github": "https://github.com/ItsProfessional",
+                "name": "No Hidden Cursor",
+                "version": "1.0.0"
+            }
+        },
+        "no-run-icon": {
+            "details": {
+                "defaultSorting": 3141,
+                "published": 1699161562000,
+                "rating": 9,
+                "ratingUsers": 3,
+                "updated": 1699161562000,
+                "users": 349
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Removes the window icon from the Run dialog, like Windows XP and before.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "No Run Icon",
+                "version": "1.0.0"
+            }
+        },
+        "no-taskbar-item-glow": {
+            "details": {
+                "defaultSorting": 360,
+                "published": 1695580544000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1695580544000,
+                "users": 40
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "description": "Disables the glow hover effect on Windows 7 and 8",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "No Taskbar Item Glow",
+                "version": "1.0.0"
+            }
+        },
+        "notepad-clientedge": {
+            "details": {
+                "defaultSorting": 1836,
+                "published": 1698645495000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1698645495000,
+                "users": 204
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Applies client edge to newer versions of Notepad",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "notepad.exe"
+                ],
+                "name": "Notepad Clientedge",
+                "version": "1.0.0"
+            }
+        },
+        "notepad-dark-mode": {
+            "details": {
+                "defaultSorting": 61780,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 56,
+                "updated": 1646604429000,
+                "users": 6178
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lgdi32 -luxtheme",
+                "description": "The missing dark mode theme for Notepad",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "notepad.exe"
+                ],
+                "name": "Dark Mode for Notepad",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "notepad-remove-launch-new-app-banner": {
+            "details": {
+                "defaultSorting": 378,
+                "published": 1719859404000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1719859404000,
+                "users": 42
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Removes the banner in classic notepad that tells you to launch the new app.",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "%SystemRoot%\\System32\\notepad.exe",
+                    "%SystemRoot%\\SysWOW64\\notepad.exe",
+                    "%SystemRoot%\\notepad.exe"
+                ],
+                "name": "Notepad Remove Launch New App Banner",
+                "version": "1.0.0"
+            }
+        },
+        "notifications-placement": {
+            "details": {
+                "defaultSorting": 17640,
+                "published": 1725643905000,
+                "rating": 10,
+                "ratingUsers": 28,
+                "updated": 1735666754000,
+                "users": 1764
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0A00 -lshcore",
+                "description": "Move notifications to another monitor or another corner of the screen",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe",
+                    "ShellExperienceHost.exe"
+                ],
+                "name": "Customize Windows notifications placement",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1"
+            }
+        },
+        "old-this-pc-commands": {
+            "details": {
+                "defaultSorting": 6750,
+                "published": 1702159772000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1725818997000,
+                "users": 675
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lole32",
+                "description": "Makes \"Open Settings\", \"System properties\", etc. in This PC use Control Panel instead of Settings",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Old This PC Commands",
+                "version": "1.0.1"
+            }
+        },
+        "per-app-language-preferences": {
+            "details": {
+                "defaultSorting": 450,
+                "published": 1731512140000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1731512140000,
+                "users": 50
+            },
+            "metadata": {
+                "architecture": [
+                    "x86",
+                    "x86-64"
+                ],
+                "author": "yezhiyi9670",
+                "compilerOptions": "-lShlwapi",
+                "description": "Override the preferred UI language for specific apps.",
+                "github": "https://github.com/yezhiyi9670",
+                "include": [
+                    "*"
+                ],
+                "name": "Per-app Language Preferences",
+                "version": "1.0"
+            }
+        },
+        "pinned-items-double-click": {
+            "details": {
+                "defaultSorting": 4100,
+                "published": 1682167233000,
+                "rating": 10,
+                "ratingUsers": 15,
+                "updated": 1714856366000,
+                "users": 410
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion -lwininet",
+                "description": "Only open pinned items when double clicking on them to avoid accidental clicks",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Open pinned items with double click",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "regedit-auto-trim-whitespace-on-navigation-bar": {
+            "details": {
+                "defaultSorting": 800,
+                "published": 1717097416000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1717097416000,
+                "users": 80
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-lshlwapi",
+                "description": "Automatically trims whitespace on the navigation bar",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "regedit.exe"
+                ],
+                "name": "RegEdit Auto Trim Whitespace on Navigation Bar",
+                "version": "1.0.0"
+            }
+        },
+        "regedit-disable-beep": {
+            "details": {
+                "defaultSorting": 570,
+                "published": 1717144071000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1717144071000,
+                "users": 57
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "compilerOptions": "-lshlwapi",
+                "description": "Prevents RegEdit from beeping when an invalid key is entered to the navigation bar",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "regedit.exe"
+                ],
+                "name": "RegEdit Disable Beep",
+                "version": "1.0.0"
+            }
+        },
+        "regedit-fix-copy-key-name": {
+            "details": {
+                "defaultSorting": 954,
+                "published": 1717097524000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1717097524000,
+                "users": 106
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Makes the \"Copy Key Name\" context menu option actually copy the name of the key instead of the path.",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "regedit.exe"
+                ],
+                "name": "RegEdit Fix \"Copy Key Name\"",
+                "version": "1.0.0"
+            }
+        },
+        "remove-command-bar": {
+            "details": {
+                "defaultSorting": 1026,
+                "published": 1713423953000,
+                "rating": 9,
+                "ratingUsers": 3,
+                "updated": 1728231790000,
+                "users": 114
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Waldemar",
+                "description": "Removes the Command Bar from file explorer.",
+                "github": "https://github.com/CyprinusCarpio",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Remove Command Bar",
+                "version": "1.0.1"
+            }
+        },
+        "remove-ms-store-open-with": {
+            "details": {
+                "defaultSorting": 26300,
+                "published": 1718733038000,
+                "rating": 10,
+                "ratingUsers": 20,
+                "updated": 1718733038000,
+                "users": 2630
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lshell32",
+                "description": "Removes the \"Search with Microsoft Store\" menu item from the \"Open with\" submenu",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Open With - Remove Microsoft Store Menu Item",
+                "version": "1.0.0"
+            }
+        },
+        "remove-quotes-from-ctrl-shift-c": {
+            "details": {
+                "defaultSorting": 1130,
+                "published": 1733929613000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1733929613000,
+                "users": 113
+            },
+            "metadata": {
+                "author": "draxas",
+                "description": "Intercepts the copied file path (CTRL+SHIFT+C in Explorer) and removes surrounding quotes",
+                "github": "https://github.com/draxas",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "CTRL+SHIFT+C quotes remover",
+                "version": "1.0"
+            }
+        },
+        "remove-spotlight-shortcut": {
+            "details": {
+                "defaultSorting": 198,
+                "published": 1734795129000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1734795129000,
+                "users": 22
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Erizur",
+                "compilerOptions": "-lcomctl32",
+                "description": "Removes the new Desktop Shortcut when you enable Windows Spotlight.",
+                "github": "https://github.com/Erizur",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Remove Windows Spotlight Desktop Shortcut",
+                "version": "1.0"
+            }
+        },
+        "ribbon-caption-icon-fix": {
+            "details": {
+                "defaultSorting": 2950,
+                "published": 1700466353000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1722203317000,
+                "users": 295
+            },
+            "metadata": {
+                "author": "Taniko Yamamoto",
+                "description": "Fixes the position of the caption icon in UIRibbon.",
+                "github": "https://github.com/YukisCoffee",
+                "include": [
+                    "mspaint.exe",
+                    "explorer.exe",
+                    "wordpad.exe"
+                ],
+                "name": "UIRibbon Caption Icon Fix",
+                "version": "1.0.1"
+            }
+        },
+        "shadowplay-do-not-disable": {
+            "details": {
+                "defaultSorting": 1640,
+                "published": 1733774874000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1733774874000,
+                "users": 164
+            },
+            "metadata": {
+                "author": "Temm",
+                "description": "Prevent Nvidia ShadowPlay from disabling itself",
+                "github": "https://github.com/leumasme",
+                "include": [
+                    "nvcontainer.exe"
+                ],
+                "name": "Shadowplay anti-disable",
+                "version": "1.0"
+            }
+        },
+        "shrink-address-bar-height": {
+            "details": {
+                "defaultSorting": 8330,
+                "published": 1677861723000,
+                "rating": 10,
+                "ratingUsers": 8,
+                "updated": 1679051738000,
+                "users": 833
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Shrinks the address bar height in file explorer",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "*"
+                ],
+                "name": "Shrink Address Bar Height",
+                "version": "1.0.1"
+            }
+        },
+        "sib-plusplus-tweaker": {
+            "details": {
+                "defaultSorting": 3430,
+                "published": 1719611831000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1727647480000,
+                "users": 343
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Erizur",
+                "compilerOptions": "-lcomctl32 -lcomdlg32 -luser32 -lole32 -lgdi32 -lshell32 -luxtheme",
+                "description": "Modify StartIsBack++'s features (2.9.20)",
+                "github": "https://github.com/Erizur",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "StartIsBack++ Tweaker",
+                "version": "0.7.1"
+            }
+        },
+        "slick-window-arrangement": {
+            "details": {
+                "defaultSorting": 113330,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 164,
+                "updated": 1727762644000,
+                "users": 11333
+            },
+            "featured": true,
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -ldwmapi",
+                "description": "Make window arrangement more slick and pleasant with a sliding animation and snapping",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Slick Window Arrangement",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.2"
+            }
+        },
+        "small-tray-icons-on-touch": {
+            "details": {
+                "defaultSorting": 850,
+                "published": 1729521551000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1729521551000,
+                "users": 85
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Reduces the size of tray icons on touch screens",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Small Tray Icons on Touch",
+                "version": "1.0.0"
+            }
+        },
+        "start-menu-all-apps": {
+            "details": {
+                "defaultSorting": 24670,
+                "published": 1647604671000,
+                "rating": 10,
+                "ratingUsers": 16,
+                "updated": 1699302173000,
+                "users": 2467
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "description": "When the Windows 11 start menu is opened, show all apps right away",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "StartMenuExperienceHost.exe"
+                ],
+                "name": "Show all apps by default in start menu",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.2"
+            }
+        },
+        "suppress-run-box-error-message": {
+            "details": {
+                "defaultSorting": 680,
+                "published": 1716742333000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1716742333000,
+                "users": 68
+            },
+            "metadata": {
+                "author": "ItsProfessional",
+                "description": "Prevents the error message from opening if invalid input is entered into the Run box",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Suppress Run Box Error Message",
+                "version": "1.0.0"
+            }
+        },
+        "syslistview32-enabler": {
+            "details": {
+                "defaultSorting": 2000,
+                "published": 1706689199000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1707130904000,
+                "users": 200
+            },
+            "metadata": {
+                "author": "anixx",
+                "description": "Enables SysListView32 folder layout in Explorer",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Enable SyslistView32",
+                "version": "1.0.2"
+            }
+        },
+        "taskbar-auto-hide-when-maximized": {
+            "details": {
+                "defaultSorting": 17919,
+                "published": 1729882023000,
+                "rating": 9,
+                "ratingUsers": 41,
+                "updated": 1731170904000,
+                "users": 1991
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-ldwmapi -lversion",
+                "description": "When auto-hide is enabled, makes the taskbar auto-hide only when a window is maximized or intersects the taskbar",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar auto-hide when maximized",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.2"
+            }
+        },
+        "taskbar-autohide-better": {
+            "details": {
+                "defaultSorting": 20990,
+                "published": 1696232707000,
+                "rating": 10,
+                "ratingUsers": 17,
+                "updated": 1697199404000,
+                "users": 2099
+            },
+            "metadata": {
+                "author": "Cirn09",
+                "compilerOptions": "-lversion",
+                "description": "Allow taskbar autohide when inactive window notified",
+                "github": "https://github.com/Cirn09",
+                "homepage": "https://blog.cirn09.xyz/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Better Taskbar Autohide",
+                "version": "1.2"
+            }
+        },
+        "taskbar-background-helper": {
+            "details": {
+                "defaultSorting": 7670,
+                "published": 1727557304000,
+                "rating": 10,
+                "ratingUsers": 10,
+                "updated": 1730594317000,
+                "users": 767
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-ldwmapi",
+                "description": "Sets the taskbar background for the transparent parts, always or only when there's a maximized window, designed to be used with Windows 11 Taskbar Styler",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Background Helper",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.3"
+            }
+        },
+        "taskbar-button-click": {
+            "details": {
+                "defaultSorting": 90810,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 134,
+                "updated": 1728681415000,
+                "users": 9081
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion -lwininet",
+                "description": "Close programs with a middle click on the taskbar instead of creating a new instance",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Middle click to close on the taskbar",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.7"
+            }
+        },
+        "taskbar-button-scroll": {
+            "details": {
+                "defaultSorting": 9940,
+                "published": 1682233932000,
+                "rating": 10,
+                "ratingUsers": 32,
+                "updated": 1731022973000,
+                "users": 994
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -loleaut32 -lole32 -lruntimeobject",
+                "description": "Minimize/restore by scrolling the mouse wheel over taskbar buttons and thumbnail previews (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar minimize/restore on scroll",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.7"
+            }
+        },
+        "taskbar-classic-menu": {
+            "details": {
+                "defaultSorting": 1990,
+                "published": 1728751303000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1729619174000,
+                "users": 199
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Show the classic context menu when right-clicking on taskbar items",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar classic context menu",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "taskbar-clock-customization": {
+            "details": {
+                "defaultSorting": 190270,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 286,
+                "updated": 1733078689000,
+                "users": 19027
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-D__USE_MINGW_ANSI_STDIO=0 -lole32 -loleaut32 -lruntimeobject -lversion -lwininet",
+                "description": "Customize the taskbar clock: define a custom date/time format, add a news feed, customize fonts and colors, and more",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Clock Customization",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.4"
+            }
+        },
+        "taskbar-disappearing-icon-fix-win11": {
+            "details": {
+                "defaultSorting": 6770,
+                "published": 1722243342000,
+                "rating": 10,
+                "ratingUsers": 20,
+                "updated": 1722243342000,
+                "users": 677
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "yezhiyi9670",
+                "compilerOptions": "-DWINVER=0x0605 -loleaut32 -lole32 -lruntimeobject -lwininet",
+                "description": "Tries to fix disappearing icon in Windows 11 taskbar while switching virtual desktops.",
+                "github": "https://github.com/yezhiyi9670",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Disappearing Icon Fix for Windows 11",
+                "version": "1.0"
+            }
+        },
+        "taskbar-empty-space-clicks": {
+            "details": {
+                "defaultSorting": 31360,
+                "published": 1704123810000,
+                "rating": 10,
+                "ratingUsers": 79,
+                "updated": 1734267995000,
+                "users": 3136
+            },
+            "metadata": {
+                "author": "m1lhaus",
+                "compilerOptions": "-DWINVER=0x0A00 -lcomctl32 -loleaut32 -lole32 -lversion",
+                "description": "Trigger custom action when empty space on a taskbar is double/middle clicked",
+                "github": "https://github.com/m1lhaus",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Click on empty taskbar space",
+                "version": "1.9"
+            }
+        },
+        "taskbar-grouping": {
+            "details": {
+                "defaultSorting": 93490,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 210,
+                "updated": 1728682340000,
+                "users": 9349
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-D__USE_MINGW_ANSI_STDIO=0 -lcomctl32 -loleaut32 -lole32 -lshlwapi -lversion -lwininet",
+                "description": "Causes a separate button to be created on the taskbar for each new window",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Disable grouping on the taskbar",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.3.7"
+            }
+        },
+        "taskbar-hung-rearrangement-fix": {
+            "details": {
+                "defaultSorting": 819,
+                "published": 1729935848000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1729935848000,
+                "users": 91
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Fixes a taskbar bug which causes taskbar items of hung windows to move to the end of the taskbar",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar hung windows rearrangement fix",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "taskbar-icon-size": {
+            "details": {
+                "defaultSorting": 629030,
+                "published": 1657984524000,
+                "rating": 10,
+                "ratingUsers": 1027,
+                "updated": 1729983087000,
+                "users": 62903
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0A00 -lcomctl32 -lole32 -loleaut32 -lruntimeobject -lshcore -lwininet",
+                "description": "Control the taskbar height and icon size, improve icon quality (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar height and icon size",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.2.16"
+            }
+        },
+        "taskbar-labels": {
+            "details": {
+                "defaultSorting": 115510,
+                "published": 1661149953000,
+                "rating": 10,
+                "ratingUsers": 180,
+                "updated": 1734055040000,
+                "users": 11551
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0A00 -loleaut32 -lole32 -lruntimeobject -lwininet",
+                "description": "Customize text labels and combining for running programs on the taskbar (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Labels for Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.3.5"
+            }
+        },
+        "taskbar-language-indicator-layout-control": {
+            "details": {
+                "defaultSorting": 450,
+                "published": 1728839079000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1728839079000,
+                "users": 50
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lkernel32 -luser32",
+                "description": "Prevents the Tray area from jumping around when the language indicator is hidden while RDP client window is active. There are multiple mitigations you can choose from.",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar language indicator layout control",
+                "version": "1.0"
+            }
+        },
+        "taskbar-left-click-cycle": {
+            "details": {
+                "defaultSorting": 6350,
+                "published": 1726228929000,
+                "rating": 10,
+                "ratingUsers": 22,
+                "updated": 1729588826000,
+                "users": 635
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Makes clicking on combined taskbar items cycle through windows instead of opening thumbnail previews",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Cycle through taskbar windows on click",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.1"
+            }
+        },
+        "taskbar-multirow": {
+            "details": {
+                "defaultSorting": 2700,
+                "published": 1733602163000,
+                "rating": 9,
+                "ratingUsers": 5,
+                "updated": 1733602163000,
+                "users": 300
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject",
+                "description": "Span taskbar items across multiple rows, just like it was possible before Windows 11",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Multirow taskbar for Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "taskbar-notification-icon-spacing": {
+            "details": {
+                "defaultSorting": 52760,
+                "published": 1706376839000,
+                "rating": 10,
+                "ratingUsers": 101,
+                "updated": 1734387432000,
+                "users": 5276
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject",
+                "description": "Reduce or increase the spacing between tray icons on the taskbar (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar tray icon spacing",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.1"
+            }
+        },
+        "taskbar-notification-icons-show-all": {
+            "details": {
+                "defaultSorting": 13590,
+                "published": 1724956331000,
+                "rating": 10,
+                "ratingUsers": 17,
+                "updated": 1724956331000,
+                "users": 1359
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "description": "Restore the missing Windows option to always show all notification (tray) icons (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Always show all taskbar tray icons",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "taskbar-on-top": {
+            "details": {
+                "defaultSorting": 25170,
+                "published": 1728056002000,
+                "rating": 10,
+                "ratingUsers": 43,
+                "updated": 1730593288000,
+                "users": 2517
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0A00 -ldwmapi -lole32 -loleaut32 -lruntimeobject -lshcore -lversion",
+                "description": "Moves the Windows 11 taskbar to the top of the screen",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar on top for Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.5"
+            }
+        },
+        "taskbar-primary-on-secondary-monitor": {
+            "details": {
+                "defaultSorting": 4130,
+                "published": 1731791988000,
+                "rating": 10,
+                "ratingUsers": 12,
+                "updated": 1735667463000,
+                "users": 413
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Move the primary taskbar, including the tray icons, notifications, action center, etc. to another monitor",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe",
+                    "ShellHost.exe"
+                ],
+                "name": "Primary taskbar on secondary monitor",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1"
+            }
+        },
+        "taskbar-scroll-actions": {
+            "details": {
+                "defaultSorting": 4250,
+                "published": 1693239523000,
+                "rating": 10,
+                "ratingUsers": 6,
+                "updated": 1713981885000,
+                "users": 425
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lversion",
+                "description": "Assign actions for scrolling over the taskbar, including virtual desktop switching and monitor brightness control",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Scroll Actions",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "taskbar-start-button-position": {
+            "details": {
+                "defaultSorting": 12270,
+                "published": 1724520144000,
+                "rating": 10,
+                "ratingUsers": 17,
+                "updated": 1730488449000,
+                "users": 1227
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject -lshcore",
+                "description": "Forces the start button to be on the left of the taskbar, even when taskbar icons are centered (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe",
+                    "StartMenuExperienceHost.exe",
+                    "SearchHost.exe"
+                ],
+                "name": "Start button always on the left",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.2"
+            }
+        },
+        "taskbar-thumbnail-reorder": {
+            "details": {
+                "defaultSorting": 68920,
+                "published": 1657401939000,
+                "rating": 10,
+                "ratingUsers": 146,
+                "updated": 1723320938000,
+                "users": 6892
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lversion -lwininet",
+                "description": "Reorder taskbar thumbnails with the left mouse button",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Thumbnail Reorder",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.8"
+            }
+        },
+        "taskbar-thumbnails": {
+            "details": {
+                "defaultSorting": 4670,
+                "published": 1728339473000,
+                "rating": 10,
+                "ratingUsers": 16,
+                "updated": 1728339473000,
+                "users": 467
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lversion",
+                "description": "Disable taskbar thumbnails on hover, or replace them with a list",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Disable Taskbar Thumbnails",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "taskbar-tray-system-icon-tweaks": {
+            "details": {
+                "defaultSorting": 52300,
+                "published": 1729973006000,
+                "rating": 10,
+                "ratingUsers": 79,
+                "updated": 1730234692000,
+                "users": 5230
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject",
+                "description": "Allows hiding system icons (volume, network, battery), the bell (always or when there are no new notifications), and the \"Show desktop\" button (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar tray system icon tweaks",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1"
+            }
+        },
+        "taskbar-vertical": {
+            "details": {
+                "defaultSorting": 32880,
+                "published": 1718190574000,
+                "rating": 10,
+                "ratingUsers": 67,
+                "updated": 1729708789000,
+                "users": 3288
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0A00 -lole32 -loleaut32 -lruntimeobject -lshcore",
+                "description": "Finally, the missing vertical taskbar option for Windows 11!",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe",
+                    "StartMenuExperienceHost.exe",
+                    "SearchHost.exe",
+                    "ShellExperienceHost.exe",
+                    "ShellHost.exe"
+                ],
+                "name": "Vertical Taskbar for Windows 11",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.3"
+            }
+        },
+        "taskbar-volume-control": {
+            "details": {
+                "defaultSorting": 234580,
+                "published": 1652940665000,
+                "rating": 10,
+                "ratingUsers": 277,
+                "updated": 1716744702000,
+                "users": 23458
+            },
+            "featured": true,
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-DWINVER=0x0602 -lcomctl32 -ldwmapi -lole32 -lversion",
+                "description": "Control the system volume by scrolling over the taskbar",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Volume Control",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.2.1"
+            }
+        },
+        "taskbar-wheel-cycle": {
+            "details": {
+                "defaultSorting": 13550,
+                "published": 1682527457000,
+                "rating": 10,
+                "ratingUsers": 26,
+                "updated": 1728766831000,
+                "users": 1355
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -loleaut32 -lole32 -lruntimeobject",
+                "description": "Use the mouse wheel while hovering over the taskbar to cycle between taskbar buttons (Windows 11 only)",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Cycle taskbar buttons with mouse wheel",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.6"
+            }
+        },
+        "text-replace": {
+            "details": {
+                "defaultSorting": 6670,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1646604429000,
+                "users": 667
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lgdi32",
+                "description": "Replace any text with any other text in any program",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Text Replace",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "themed-regedit-listview": {
+            "details": {
+                "defaultSorting": 10160,
+                "published": 1695597864000,
+                "rating": 10,
+                "ratingUsers": 13,
+                "updated": 1695597864000,
+                "users": 1016
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luxtheme",
+                "description": "Makes the ListView in Regedit themed",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "regedit.exe"
+                ],
+                "name": "Themed Regedit ListView",
+                "version": "1.0.0"
+            }
+        },
+        "timer-resolution-control": {
+            "details": {
+                "defaultSorting": 2920,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1646604429000,
+                "users": 292
+            },
+            "metadata": {
+                "author": "m417z",
+                "description": "Prevent programs from changing the Windows timer resolution and increasing power consumption",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "*"
+                ],
+                "name": "Timer Resolution Control",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "tortoisegit-progress-animation-background-fix": {
+            "details": {
+                "defaultSorting": 270,
+                "published": 1732298725000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1732298725000,
+                "users": 30
+            },
+            "metadata": {
+                "author": "Roland Pihlakas",
+                "compilerOptions": "-lgdi32",
+                "description": "Fixes progress animation background in classic dark theme by replacing white background with a classic button face colour",
+                "github": "https://github.com/levitation",
+                "homepage": "https://www.simplify.ee/",
+                "include": [
+                    "TortoiseGitProc.exe"
+                ],
+                "name": "TortoiseGit progress animation background fix for classic dark theme",
+                "version": "1.0.0"
+            }
+        },
+        "transparent-screensaver-fix": {
+            "details": {
+                "defaultSorting": 3140,
+                "published": 1723929138000,
+                "rating": 10,
+                "ratingUsers": 8,
+                "updated": 1723929138000,
+                "users": 314
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "description": "Allows transparent screensavers to see your desktop again",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "winlogon.exe"
+                ],
+                "name": "Transparent Screensaver Fix",
+                "version": "1.0.0"
+            }
+        },
+        "uifile-override": {
+            "details": {
+                "defaultSorting": 1320,
+                "published": 1720335390000,
+                "rating": 8,
+                "ratingUsers": 1,
+                "updated": 1725695515000,
+                "users": 165
+            },
+            "metadata": {
+                "author": "xalejandro",
+                "compilerOptions": "-luxtheme -lshlwapi",
+                "description": "Override UIFILE resources",
+                "github": "https://github.com/tetawaves",
+                "include": [
+                    "*"
+                ],
+                "name": "UIFILE Override",
+                "version": "1.0.2"
+            }
+        },
+        "unlock-taskmgr-server": {
+            "details": {
+                "defaultSorting": 710,
+                "published": 1700814558000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1700814558000,
+                "users": 71
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Re-enable features that are normally disabled in Task Manager on Windows Server",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "Taskmgr.exe"
+                ],
+                "name": "Unlock Task Manager for Server",
+                "version": "1.0.0"
+            }
+        },
+        "uwp-clean": {
+            "details": {
+                "defaultSorting": 1990,
+                "published": 1714023124000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1714023124000,
+                "users": 199
+            },
+            "metadata": {
+                "author": "Alcatel",
+                "compilerOptions": "-lcomdlg32",
+                "description": "Automatically end UWP processes when no UWP apps are open.",
+                "github": "https://github.com/arukateru",
+                "include": [
+                    "ApplicationFrameHost.exe",
+                    "RuntimeBroker.exe",
+                    "TextInputHost.exe",
+                    "SystemSettingsAdminFlows.exe",
+                    "ctfmon.exe"
+                ],
+                "name": "Clean up UWP processes",
+                "version": "0.1"
+            }
+        },
+        "uxtheme-hook": {
+            "details": {
+                "defaultSorting": 4960,
+                "published": 1720341593000,
+                "rating": 10,
+                "ratingUsers": 5,
+                "updated": 1720422047000,
+                "users": 496
+            },
+            "metadata": {
+                "author": "rounk-ctrl",
+                "compilerOptions": "-luxtheme -lgdi32",
+                "description": "Allows you to apply custom themes",
+                "github": "https://github.com/rounk-ctrl",
+                "include": [
+                    "winlogon.exe",
+                    "explorer.exe",
+                    "systemsettings.exe",
+                    "logonui.exe",
+                    "rundll32.exe"
+                ],
+                "name": "UXTheme hook",
+                "version": "1.1"
+            }
+        },
+        "version-spoof": {
+            "details": {
+                "defaultSorting": 920,
+                "published": 1730211947000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1730211947000,
+                "users": 92
+            },
+            "metadata": {
+                "author": "aubymori",
+                "description": "Fakes the Windows version reported to applications",
+                "exclude": [
+                    "winlogon.exe",
+                    "dwm.exe"
+                ],
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Version Spoof",
+                "version": "1.0.0"
+            }
+        },
+        "virtual-desktop-taskbar-order": {
+            "details": {
+                "defaultSorting": 10359,
+                "published": 1677867923000,
+                "rating": 9,
+                "ratingUsers": 31,
+                "updated": 1725909793000,
+                "users": 1151
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lversion -lwininet",
+                "description": "The order on the taskbar isn't preserved between virtual desktop switches, this mod fixes it",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Virtual Desktop Preserve Taskbar Order",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.4"
+            }
+        },
+        "visual-studio-anti-rich-header": {
+            "details": {
+                "defaultSorting": 234,
+                "published": 1646604429000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1732236176000,
+                "users": 26
+            },
+            "metadata": {
+                "author": "m417z",
+                "description": "Prevent the Visual Studio linker from embedding the Rich header into new executables",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "link.exe"
+                ],
+                "name": "Visual Studio Anti-Rich-Header",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.3"
+            }
+        },
+        "vmware-disable-upgrade-dialog": {
+            "details": {
+                "defaultSorting": 144,
+                "published": 1703322554000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1703322554000,
+                "users": 16
+            },
+            "metadata": {
+                "architecture": [
+                    "x86"
+                ],
+                "author": "m417z",
+                "description": "Disable the VMware Workstation \"old encryption algorithm\" upgrade dialog",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "vmware.exe"
+                ],
+                "name": "Disable VMware upgrade dialog",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0"
+            }
+        },
+        "vscode-tweaker": {
+            "details": {
+                "defaultSorting": 1090,
+                "published": 1646604429000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1659090573000,
+                "users": 109
+            },
+            "metadata": {
+                "author": "m417z",
+                "compilerOptions": "-lshlwapi",
+                "description": "Tweak Microsoft Visual Studio Code by injecting custom JavaScript and CSS code",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "code.exe"
+                ],
+                "name": "VSCode Tweaker",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.0.1"
+            }
+        },
+        "w11-dwm-fix": {
+            "details": {
+                "defaultSorting": 1120,
+                "published": 1707592711000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1707592711000,
+                "users": 112
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "teknixstuff",
+                "description": "Restores borders and corners",
+                "github": "https://github.com/teknixstuff",
+                "homepage": "https://teknixstuff.github.io/",
+                "include": [
+                    "dwm.exe"
+                ],
+                "name": "Bring Back the Borders!",
+                "twitter": "https://twitter.com/teknixstuff",
+                "version": "1.1.0"
+            }
+        },
+        "win-d-per-monitor": {
+            "details": {
+                "defaultSorting": 1730,
+                "published": 1734370095000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1734370095000,
+                "users": 173
+            },
+            "metadata": {
+                "author": "easyatm",
+                "compilerOptions": "-luser32 -lDwmapi",
+                "description": "Press Win+D to only manage the windows on the monitor where the mouse is located.",
+                "github": "https://github.com/easyatm",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Win+D per monitor",
+                "version": "1.0.20241214"
+            }
+        },
+        "win10-taskbar-on-win11": {
+            "details": {
+                "defaultSorting": 747,
+                "published": 1723291741000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1726745627000,
+                "users": 83
+            },
+            "metadata": {
+                "author": "Anixx",
+                "description": "Enables Windows 10 taskbar on Windows 11 versions 21H2 to 23H2",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Windows 10 taskbar on Windows 11",
+                "version": "1.0.2"
+            }
+        },
+        "win10-taskbar-on-win11-24h2": {
+            "details": {
+                "defaultSorting": 1344,
+                "published": 1725446830000,
+                "rating": 8,
+                "ratingUsers": 1,
+                "updated": 1731157978000,
+                "users": 168
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "Anixx",
+                "compilerOptions": "-lurlmon",
+                "description": "Enables Windows 10 taskbar on Windows 11 version 24H2, Windows Server 2025 and Windows 11 IoT Enterprise LTSC 2024",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "userinit.exe"
+                ],
+                "name": "Enable Win10 taskbar on Win11 24H2",
+                "version": "0.1.1"
+            }
+        },
+        "win32-tray-clock-experience": {
+            "details": {
+                "defaultSorting": 6870,
+                "published": 1703494264000,
+                "rating": 10,
+                "ratingUsers": 3,
+                "updated": 1703494264000,
+                "users": 687
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lole32",
+                "description": "Use the Win32 clock flyout instead of the XAML one",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Win32 Tray Clock Experience",
+                "version": "1.0.0"
+            }
+        },
+        "win7-alttab-loader": {
+            "details": {
+                "defaultSorting": 4870,
+                "published": 1690590362000,
+                "rating": 10,
+                "ratingUsers": 8,
+                "updated": 1724657922000,
+                "users": 487
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-ldwmapi -lcomctl32 -lgdi32",
+                "description": "Loads Windows 7 Alt+Tab on Windows 10.",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Windows 7 Alt+Tab Loader",
+                "version": "2.0.0"
+            }
+        },
+        "win7-command-bar": {
+            "details": {
+                "defaultSorting": 2950,
+                "published": 1677843666000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1677843666000,
+                "users": 295
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "ItsProfessional",
+                "description": "Restores the Windows 7 file command bar in the file explorer",
+                "github": "https://github.com/ItsProfessional",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Windows 7 Command Bar",
+                "version": "1.0.0"
+            }
+        },
+        "win7-dwm-disable": {
+            "details": {
+                "defaultSorting": 90,
+                "published": 1718802077000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1718802077000,
+                "users": 10
+            },
+            "metadata": {
+                "author": "Jevil7452",
+                "compilerOptions": "-ldwmapi",
+                "description": "Disables desktop composition when a certain process is running",
+                "github": "https://github.com/Jevil7452",
+                "name": "Win7 Disable Composition for process",
+                "version": "1.0"
+            }
+        },
+        "win7-style-uac-dim": {
+            "details": {
+                "defaultSorting": 5920,
+                "published": 1719416300000,
+                "rating": 8,
+                "ratingUsers": 10,
+                "updated": 1719436894000,
+                "users": 740
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32 -lgdiplus",
+                "description": "Restores the desktop screenshot on the User Account Control screen",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "consent.exe"
+                ],
+                "name": "Windows 7 Style UAC Dim",
+                "version": "1.0.1"
+            }
+        },
+        "windows-11-notification-center-styler": {
+            "details": {
+                "defaultSorting": 255990,
+                "published": 1715436273000,
+                "rating": 10,
+                "ratingUsers": 189,
+                "updated": 1736107333000,
+                "users": 25599
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lruntimeobject -Wl,--export-all-symbols",
+                "description": "Customize the Notification Center with themes contributed by others or create your own",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "ShellExperienceHost.exe",
+                    "ShellHost.exe"
+                ],
+                "name": "Windows 11 Notification Center Styler",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.1.5"
+            }
+        },
+        "windows-11-start-menu-styler": {
+            "details": {
+                "defaultSorting": 711140,
+                "published": 1703013948000,
+                "rating": 10,
+                "ratingUsers": 805,
+                "updated": 1733842630000,
+                "users": 71114
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lruntimeobject -lversion -Wl,--export-all-symbols",
+                "description": "Customize the start menu with themes contributed by others or create your own",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "StartMenuExperienceHost.exe",
+                    "SearchHost.exe"
+                ],
+                "name": "Windows 11 Start Menu Styler",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.2"
+            }
+        },
+        "windows-11-taskbar-styler": {
+            "details": {
+                "defaultSorting": 499995,
+                "published": 1684509250000,
+                "rating": 9,
+                "ratingUsers": 684,
+                "updated": 1729940337000,
+                "users": 55555
+            },
+            "featured": true,
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "m417z",
+                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lruntimeobject -Wl,--export-all-symbols",
+                "description": "Customize the taskbar with themes contributed by others or create your own",
+                "github": "https://github.com/m417z",
+                "homepage": "https://m417z.com/",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Windows 11 Taskbar Styler",
+                "twitter": "https://twitter.com/m417z",
+                "version": "1.3.8"
+            }
+        },
+        "windows-7-clock-spacing": {
+            "details": {
+                "defaultSorting": 4920,
+                "published": 1703050709000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1703050709000,
+                "users": 492
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32 -lshell32 -lcomctl32",
+                "description": "Makes the taskbar clock in Windows 10 use the spacing from Windows 7",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Windows 7 Clock Spacing",
+                "version": "1.0.0"
+            }
+        }
+    }
+}
