@@ -1,3 +1,7 @@
+## 1.1.3 ([Jan 14, 2025](https://github.com/ramensoftware/windhawk-mods/blob/0ae1a966a0e761445f88b2b2d9a2e8370869f163/mods/classic-explorer-treeview.wh.cpp))
+
+Classic Explorer Treeview: Update 1.1.3
+
 ## 1.1.2 ([Oct 12, 2024](https://github.com/ramensoftware/windhawk-mods/blob/e5a77cad35db119b7a798eb68597cead108a76a2/mods/classic-explorer-treeview.wh.cpp))
 
 - Added a option to enable item hot tracking
