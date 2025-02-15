@@ -1,4 +1,4 @@
-## 1.0.1 ([Feb 15, 2025](https://github.com/ramensoftware/windhawk-mods/blob/a4f13dfc7446f5f199b9b0f347d05f4f857d9d63/mods/explorerframe-fixes-for-win11-22h2plus.wh.cpp))
+## 1.0.1 ([Feb 15, 2025](https://github.com/ramensoftware/windhawk-mods/blob/d918879b3ab517ee35c8401e7cb5b2235bb89993/mods/explorerframe-fixes-for-win11-22h2plus.wh.cpp))
 
 Explorerframe fixes for win11: more workarounds for unpredictable menubar appearance on later 23H2 and 24H2 builds
 
