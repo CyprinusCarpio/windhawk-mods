@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://windhawk.net/</id>
     <title>Windhawk Mod Updates</title>
-    <updated>2025-02-15T12:21:18.000Z</updated>
+    <updated>2025-02-15T16:25:27.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://windhawk.net/"/>
     <subtitle>Updates in the official collection of Windhawk mods</subtitle>
     <icon>https://windhawk.net/favicon.ico</icon>
     <rights>Ramen Software</rights>
+    <entry>
+        <title type="html"><![CDATA[Explorerframe fixes for Win11 22H2+ 1.0.1]]></title>
+        <id>https://windhawk.net/mods/explorerframe-fixes-for-win11-22h2plus#a4f13dfc7446f5f199b9b0f347d05f4f857d9d63</id>
+        <link href="https://windhawk.net/mods/explorerframe-fixes-for-win11-22h2plus"/>
+        <updated>2025-02-15T16:25:27.000Z</updated>
+        <content type="html"><![CDATA[<p>Explorerframe fixes for win11: more workarounds for unpredictable menubar appearance on later 23H2 and 24H2 builds</p>]]></content>
+        <author>
+            <name>Waldemar</name>
+            <uri>https://github.com/CyprinusCarpio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Icons of Win16 apps in Explorer 1.0.2]]></title>
         <id>https://windhawk.net/mods/icon16bitfix#80df04b114131c98440b5155570d300f9c50e45a</id>
@@ -274,20 +285,6 @@ regardless of your actual Windows setting.</p>]]></content>
         <author>
             <name>L3r0y</name>
             <uri>https://github.com/L3r0yThingz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logon, Logoff & Shutdown Sounds Restored 1.0.3]]></title>
-        <id>https://windhawk.net/mods/logon-logoff-shutdown-sounds#72ede460ac2338d3c3529f5e159e9703257956a4</id>
-        <link href="https://windhawk.net/mods/logon-logoff-shutdown-sounds"/>
-        <updated>2025-02-04T22:37:49.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>Fixed compatibility with ExplorerEx and XP/Server 2003 and earlier Explorer ports like it</li>
-<li>Made code style more consistent</li>
-</ul>]]></content>
-        <author>
-            <name>Toru the Red Fox</name>
-            <uri>https://github.com/TorutheRedFox</uri>
         </author>
     </entry>
 </feed>
