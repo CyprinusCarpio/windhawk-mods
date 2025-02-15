@@ -2,103 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://windhawk.net/</id>
     <title>Windhawk Mod Updates</title>
-    <updated>2025-01-14T14:00:34.000Z</updated>
+    <updated>2025-02-15T12:21:18.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://windhawk.net/"/>
     <subtitle>Updates in the official collection of Windhawk mods</subtitle>
     <icon>https://windhawk.net/favicon.ico</icon>
     <rights>Ramen Software</rights>
     <entry>
-        <title type="html"><![CDATA[Classic Explorer Treeview 1.1.3]]></title>
-        <id>https://windhawk.net/mods/classic-explorer-treeview#0ae1a966a0e761445f88b2b2d9a2e8370869f163</id>
-        <link href="https://windhawk.net/mods/classic-explorer-treeview"/>
-        <updated>2025-01-14T14:00:34.000Z</updated>
-        <content type="html"><![CDATA[<p>Classic Explorer Treeview: Update 1.1.3</p>]]></content>
-        <author>
-            <name>Waldemar</name>
-            <uri>https://github.com/CyprinusCarpio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legacy Alt+Tab dialog 1.0.2]]></title>
-        <id>https://windhawk.net/mods/legacy-alt-tab#2cb620735e9f7eed807169bcf816c3fee9b4f1a2</id>
-        <link href="https://windhawk.net/mods/legacy-alt-tab"/>
-        <updated>2025-01-09T16:50:10.000Z</updated>
-        <content type="html"><![CDATA[<p>Clarificetion on effect on Win11 24H2.</p>]]></content>
-        <author>
-            <name>Anixx</name>
-            <uri>https://github.com/Anixx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix browsers for Windows Classic theme 1.2.2]]></title>
-        <id>https://windhawk.net/mods/classic-browser-fix#6a8345066ab3b41d72f1aa2e2c75cdac73186484</id>
-        <link href="https://windhawk.net/mods/classic-browser-fix"/>
-        <updated>2025-01-07T10:52:08.000Z</updated>
-        <content type="html"><![CDATA[<p>This mod is outdated</p>]]></content>
-        <author>
-            <name>Anixx</name>
-            <uri>https://github.com/Anixx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Notification Center Styler 1.1.5]]></title>
-        <id>https://windhawk.net/mods/windows-11-notification-center-styler#b0d7a441fde94fac703f55f232efbb0ea674e803</id>
-        <link href="https://windhawk.net/mods/windows-11-notification-center-styler"/>
-        <updated>2025-01-05T20:02:13.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>Added a new theme: 10JumpLists.</li>
-<li>Fixed not being able to style some elements due to error 802B000A (failed to create a 'System.Type' from the text).</li>
-</ul>]]></content>
-        <author>
-            <name>m417z</name>
-            <uri>https://github.com/m417z</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode context menus 1.1]]></title>
-        <id>https://windhawk.net/mods/dark-menus#fa6306bf70a7363c7449ec89def690c17e5aed24</id>
-        <link href="https://windhawk.net/mods/dark-menus"/>
-        <updated>2025-01-05T16:05:45.000Z</updated>
-        <content type="html"><![CDATA[<p>Added a option to only use context menus in dark mode if Windows is in dark mode. Also cleaned up the code.</p>]]></content>
-        <author>
-            <name>Mgg Sk</name>
-            <uri>https://github.com/MGGSK</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromium Frame Blackout Fix 0.1]]></title>
-        <id>https://windhawk.net/mods/chromium-ncpaint-fix#88b6b51a5fd5a4646173f127b087231380292e1a</id>
-        <link href="https://windhawk.net/mods/chromium-ncpaint-fix"/>
-        <updated>2025-01-05T09:46:08.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="chromiumframeblackoutfix">Chromium Frame Blackout Fix</h1>
-<ul>
-<li>Fix Basic/Classic frames going black in Chromium/Electron/CEF apps</li>
-</ul>]]></content>
-        <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide Action Center icon 1.0.1]]></title>
-        <id>https://windhawk.net/mods/hide-action-center-icon#754cfb4e6257c90fb4729c169f08deba96227bc4</id>
-        <link href="https://windhawk.net/mods/hide-action-center-icon"/>
-        <updated>2025-01-03T12:07:57.000Z</updated>
-        <content type="html"><![CDATA[<p>Will not stop working in the future as the Win10 taskbar will not get any changes.</p>]]></content>
+        <title type="html"><![CDATA[Icons of Win16 apps in Explorer 1.0.2]]></title>
+        <id>https://windhawk.net/mods/icon16bitfix#80df04b114131c98440b5155570d300f9c50e45a</id>
+        <link href="https://windhawk.net/mods/icon16bitfix"/>
+        <updated>2025-02-15T12:21:18.000Z</updated>
+        <content type="html"><![CDATA[<p>Add license tag according to the license on the original code.</p>]]></content>
         <author>
             <name>anixx</name>
             <uri>https://github.com/Anixx</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Primary taskbar on secondary monitor 1.1]]></title>
-        <id>https://windhawk.net/mods/taskbar-primary-on-secondary-monitor#4db829a377d9b5b497da107523171d2d785042c7</id>
-        <link href="https://windhawk.net/mods/taskbar-primary-on-secondary-monitor"/>
-        <updated>2024-12-31T17:51:03.000Z</updated>
+        <title type="html"><![CDATA[Disk Pie Chart 1.0.0]]></title>
+        <id>https://windhawk.net/mods/disk-pie-chart#976eec84d3873f386cc1b702d9486ad0a6724f7a</id>
+        <link href="https://windhawk.net/mods/disk-pie-chart"/>
+        <updated>2025-02-15T09:17:28.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="diskpiechart">Disk Pie Chart</h1>
+<p>Since Windows 10, the usage chart in the disk properties window was changed to
+a blue circle rather than a pie chart, like previous Windows versions. This mod
+changes it back to the classic pie chart.</p>
+<p><strong>Preview</strong>:</p>
+<p><img src="https://raw.githubusercontent.com/aubymori/images/refs/heads/main/disk-pie-chart-preview.png" alt="Preview" /></p>
+<p><strong>Preview (classic)</strong>:</p>
+<p><img src="https://raw.githubusercontent.com/aubymori/images/refs/heads/main/disk-pie-chart-preview-classic.png" alt="Preview (classic)" /></p>]]></content>
+        <author>
+            <name>aubymori</name>
+            <uri>https://github.com/aubymori</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native titelebars in Chromium-based browsers 0.1.1]]></title>
+        <id>https://windhawk.net/mods/chromium-native-titlebar#7c522f531da0d5606eff421dc76c9885907c79de</id>
+        <link href="https://windhawk.net/mods/chromium-native-titlebar"/>
+        <updated>2025-02-15T01:24:22.000Z</updated>
+        <content type="html"><![CDATA[<p>Fix description</p>]]></content>
+        <author>
+            <name>Anixx</name>
+            <uri>https://github.com/Anixx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable Taskbar Thumbnails 1.1]]></title>
+        <id>https://windhawk.net/mods/taskbar-thumbnails#104de03d346d042e329665b5c522197d2b4bb7af</id>
+        <link href="https://windhawk.net/mods/taskbar-thumbnails"/>
+        <updated>2025-02-14T20:53:41.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>Added the "Monitor interface name" option which can be used instead of the monitor number. Can be useful if the monitor numbers change often.</li>
-<li>Fixed the Action Center (Win+A) always opening on primary monitor on Windows 11 version 24H2.</li>
+<li>Added support for the new thumbnail previews implementation in Windows 11.</li>
+<li>Added support for the ExplorerPatcher taskbar.</li>
 </ul>]]></content>
         <author>
             <name>m417z</name>
@@ -106,12 +63,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Customize Windows notifications placement 1.1]]></title>
-        <id>https://windhawk.net/mods/notifications-placement#d8232bbf9fd4b173e4848587d1b9604acc359453</id>
-        <link href="https://windhawk.net/mods/notifications-placement"/>
-        <updated>2024-12-31T17:39:14.000Z</updated>
+        <title type="html"><![CDATA[Taskbar minimize/restore on scroll 1.1.1]]></title>
+        <id>https://windhawk.net/mods/taskbar-button-scroll#b6614250291822a82219a5eacb2d5bd68959936b</id>
+        <link href="https://windhawk.net/mods/taskbar-button-scroll"/>
+        <updated>2025-02-14T17:46:01.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>Added the "Monitor interface name" option which can be used instead of the monitor number. Can be useful if the monitor numbers change often.</li>
+<li>The aero peek effect is now canceled when scrolling over thumbnails (for the new thumbnail previews implementation in Windows 11).</li>
 </ul>]]></content>
         <author>
             <name>m417z</name>
@@ -119,72 +76,62 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CEF/Spotify Titlebar Enabler 0.5]]></title>
-        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#d25beeb3c894c97d36c4fe7b52e67a3505ad78e2</id>
-        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
-        <updated>2024-12-25T15:25:49.000Z</updated>
+        <title type="html"><![CDATA[Spoof Light/Dark Theme 1.0.1]]></title>
+        <id>https://windhawk.net/mods/spoof-light-dark-theme#9822461150f9ce017fcba156d50f18f824fde30b</id>
+        <link href="https://windhawk.net/mods/spoof-light-dark-theme"/>
+        <updated>2025-02-14T15:57:31.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>Support making Spotify's custom window controls transparent</li>
-<li>Try to avoid crashes on untested newer releases of CEF/Spotify</li>
-<li>Support using DWM backgrounds with MicaForEveryone (requires hex patching <code>Spotify.exe</code>; see the mod details for instructions)</li>
+<li>Fix issue with <code>RegQueryValueExW</code> hook</li>
 </ul>]]></content>
         <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
+            <name>aubymori</name>
+            <uri>https://github.com/aubymori</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CEF/Spotify Titlebar Enabler 0.4]]></title>
-        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#b8b4b7aaa97eae0a573b4cde7bcd95b869448bd9</id>
-        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
-        <updated>2024-12-24T08:01:11.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>The leftover space from hiding Spotify's custom window controls and the menu button is now clickable (mouse events are sent to the CEF browser)</li>
-</ul>]]></content>
+        <title type="html"><![CDATA[Restore Button Pulse Animation 1.0.0]]></title>
+        <id>https://windhawk.net/mods/restore-button-pulse-anim#c371d1dd9294ac5d5843219d4af0bc01f9b4c195</id>
+        <link href="https://windhawk.net/mods/restore-button-pulse-anim"/>
+        <updated>2025-02-14T12:59:54.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="restorebuttonpulseanimation">Restore Button Pulse Animation</h1>
+<p>In Windows Vista and 7, buttons played a "pulse" animation when they were
+focused. This mod restores that functionality.</p>
+<p><img src="https://raw.githubusercontent.com/aubymori/images/main/restore-button-pulse-anim-preview.gif" alt="Preview" /></p>
+<h2 id="note">Note</h2>
+<p>While the theme state for the pulse animation still exists in Windows 8 and 10 to
+accomodate third party applications that custom draw controls, the images in the
+default theme are identical, and you will not see an animation. Make sure you're
+using a Windows Vista/7-styled theme in order to see the effect.</p>]]></content>
         <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
+            <name>aubymori</name>
+            <uri>https://github.com/aubymori</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remove Windows Spotlight Desktop Shortcut 1.0]]></title>
-        <id>https://windhawk.net/mods/remove-spotlight-shortcut#76c158dfc3ec76744d12ec9e030792f7dd0aac0b</id>
-        <link href="https://windhawk.net/mods/remove-spotlight-shortcut"/>
-        <updated>2024-12-21T15:32:09.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="removewindowsspotlightdesktopshortcut">Remove Windows Spotlight Desktop Shortcut</h1>
-<p>This mod removes the new Spotlight shortcut that appears on the desktop when you use Spotlight wallpaper mode.
-Works on latest Windows 10 and LTSC 2021. Windows 11 has not been fully tested yet.</p>
-<h2 id="postinstallinstructions">Post-Install instructions</h2>
-<p>After installing the mod, you could either restart the explorer.exe process or refresh your desktop using the context menu.
-This will make the icon not show up on your desktop anymore. Enjoy!</p>]]></content>
+        <title type="html"><![CDATA[Native titelebars in Chromium-based browsers 0.1]]></title>
+        <id>https://windhawk.net/mods/chromium-native-titlebar#e6eeae29e3573ba7e681ef1137f512d91348e6b8</id>
+        <link href="https://windhawk.net/mods/chromium-native-titlebar"/>
+        <updated>2025-02-14T12:56:40.000Z</updated>
+        <content type="html"><![CDATA[<p>This is a variation of the Chromium Frame Blackout Fix mod by Ingan121.
+Ingan121 is maybe currently working on a better mod, so this mod is an interim solution.
+The difference from the original mod is in intercepting also WM<em>NCCALCSIZE in addition
+to WM</em>NCPAINT message.
+Since the effect of this mod is unpredictable on other applications, by default only
+some Chromium-based browsers are injected.</p>
+<p><img src="https://i.imgur.com/DQGNOtH.png" alt="Edge" /></p>]]></content>
         <author>
-            <name>Erizur</name>
-            <uri>https://github.com/Erizur</uri>
+            <name>Anixx</name>
+            <uri>https://github.com/Anixx</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CEF/Spotify Titlebar Enabler 0.3]]></title>
-        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#e1dedbdcf972be80fa02d122d7379f9ca91e7582</id>
-        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
-        <updated>2024-12-21T13:48:39.000Z</updated>
+        <title type="html"><![CDATA[Disable grouping on the taskbar 1.3.8]]></title>
+        <id>https://windhawk.net/mods/taskbar-grouping#6dbf9a4b807f290ef52204bb86d9d091073e4bcf</id>
+        <link href="https://windhawk.net/mods/taskbar-grouping"/>
+        <updated>2025-02-12T21:07:41.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>Add support for Spotify 1.2.53</li>
-<li>The ignore minimum size option now works without having to enable the native frames option</li>
-<li>Add an option to enable native frames on non-main windows (miniplayer, DevTools, etc.)</li>
-<li>WM_NCPAINT fix now works on non-Spotify CEF applications</li>
-</ul>]]></content>
-        <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better file sizes in Explorer details 1.4.7]]></title>
-        <id>https://windhawk.net/mods/explorer-details-better-file-sizes#28f831fb2eb390551fac6fa88ca6bf6c590fac01</id>
-        <link href="https://windhawk.net/mods/explorer-details-better-file-sizes"/>
-        <updated>2024-12-18T14:13:18.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>"Everything" integration for folder sizes: Added support for folder junctions.</li>
+<li>Fixed pinned item icons not updating after the last window is closed. The bug happened with the "Use window icons" option, with multiple monitors when the "All monitors" taskbar configuration was used.</li>
+<li>The "Customize the old taskbar on Windows 11" option no longer needs to be enabled for the mod to work with the ExplorerPatcher taskbar.</li>
 </ul>]]></content>
         <author>
             <name>m417z</name>
@@ -192,29 +139,16 @@ This will make the icon not show up on your desktop anymore. Enjoy!</p>]]></cont
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CEF/Spotify Titlebar Enabler 0.2]]></title>
-        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#d9e7075dc68171e319427778e094cf9945dbe4a9</id>
-        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
-        <updated>2024-12-18T12:28:35.000Z</updated>
+        <title type="html"><![CDATA[Taskbar minimize/restore on scroll 1.1]]></title>
+        <id>https://windhawk.net/mods/taskbar-button-scroll#ceb0321bf91e11a795aa5c846bfb84864d73cb90</id>
+        <link href="https://windhawk.net/mods/taskbar-button-scroll"/>
+        <updated>2025-02-12T20:18:35.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>Now supports proper native window controls on all supported versions. DWM, Basic, and Classic are all supported.</li>
-<li>Fix show menu option not working properly when logging is disabled</li>
-<li>Fix Basic/Classic frames turning black in some cases (upstream Chromium issue)</li>
-<li>Add an option to ignore the minimum size set by Spotify</li>
-</ul>]]></content>
-        <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taskbar tray icon spacing 1.1.1]]></title>
-        <id>https://windhawk.net/mods/taskbar-notification-icon-spacing#9c2f0424b09b758e4e82b06da5b4d94e206e05a4</id>
-        <link href="https://windhawk.net/mods/taskbar-notification-icon-spacing"/>
-        <updated>2024-12-16T22:17:12.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>Fixed buggy tray overflow placement when it's shown at the first time after system startup.</li>
-<li>Fixed tray overflow styles not being restored on mod unload.</li>
+<li>Added support for the new thumbnail previews implementation in Windows 11.</li>
+<li>Added support for Windows 10.</li>
+<li>Added support for the Windows 10 taskbar on Windows 11 (the relevant option has to be enabled in the mod settings).</li>
+<li>Added support for the ExplorerPatcher taskbar. A version newer than ExplorerPatcher 67.1 is required. Currently, ExplorerPatcher 67.1 is the latest version, meaning that you'll have to wait for the next update. If you can't wait to try it, according to the maintainers of ExplorerPatcher, you can use <a href="https://github.com/ExplorerPatcher/ep_taskbar_releases/releases/tag/860073b">this pre-release version of the taskbar</a>.</li>
+<li>Fixed the taskbar becoming hung when scrolling over a window which isn't responding.</li>
 </ul>]]></content>
         <author>
             <name>m417z</name>
@@ -222,16 +156,54 @@ This will make the icon not show up on your desktop anymore. Enjoy!</p>]]></cont
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better file sizes in Explorer details 1.4.6]]></title>
-        <id>https://windhawk.net/mods/explorer-details-better-file-sizes#4daa0db637b47f3da820ad7d1cdcc64236068d12</id>
-        <link href="https://windhawk.net/mods/explorer-details-better-file-sizes"/>
-        <updated>2024-12-16T18:27:30.000Z</updated>
+        <title type="html"><![CDATA[Per-app Language Preferences 1.2]]></title>
+        <id>https://windhawk.net/mods/per-app-language-preferences#99736f85dcf4a3e189d4a38b807977544d4082be</id>
+        <link href="https://windhawk.net/mods/per-app-language-preferences"/>
+        <updated>2025-02-11T07:11:51.000Z</updated>
+        <content type="html"><![CDATA[<p>Add more hooks to (somehow) improve compatibility</p>]]></content>
+        <author>
+            <name>yezhiyi9670</name>
+            <uri>https://github.com/yezhiyi9670</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taskbar tray system icon tweaks 1.2]]></title>
+        <id>https://windhawk.net/mods/taskbar-tray-system-icon-tweaks#739d5e32426532fdd48f408029d2642060ac1c33</id>
+        <link href="https://windhawk.net/mods/taskbar-tray-system-icon-tweaks"/>
+        <updated>2025-02-10T23:24:59.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>"Everything" integration for folder sizes: Added support for the new Everything SDK3. With "Everything" version 1.5.0.1384a or newer, the folder size query is much faster now (can be around 20x faster).</li>
-<li>"Everything" integration for folder sizes: Folder junctions no longer have a size (zero size was shown before).</li>
-<li>Fixed sorting folders by size when the "Mix files and folders when sorting by size" option is disabled.</li>
-<li>Folder sizes are now displayed in more places, including "Library" folders and the details pane.</li>
-<li>Fixed a rare mod hang on unload.</li>
+<li>Added a separate option for language bar supplementary icons, such as Japanese Romaji or Kana.</li>
+<li>Fixed some non-language icons, such as the keyboard icon, hiding when hiding the language bar.</li>
+</ul>
+<p>Both fixes were <a href="https://github.com/ramensoftware/windhawk-mods/issues/1489">contributed by jingyu9575</a>.</p>]]></content>
+        <author>
+            <name>m417z</name>
+            <uri>https://github.com/m417z</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEF/Spotify Tweaks 0.7]]></title>
+        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#da2e72abc1f05e34d0737578eb8fcc8a17780a59</id>
+        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
+        <updated>2025-02-10T07:35:07.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Add support for Spotify 1.2.57</li>
+<li>Fix JS API being unavailable on Spotify 1.2.4-1.2.32: use <code>window._getSpotifyModule('ctewh')</code> instead on these versions</li>
+<li>The transparent rendering, anti-forced dark mode, and Chrome extension enabler mods can now be applied even if the mod is loaded a bit late</li>
+</ul>]]></content>
+        <author>
+            <name>Ingan121</name>
+            <uri>https://github.com/Ingan121</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start button always on the left 1.2.1]]></title>
+        <id>https://windhawk.net/mods/taskbar-start-button-position#65167d91ff632f8defcde31939d90f391e43c155</id>
+        <link href="https://windhawk.net/mods/taskbar-start-button-position"/>
+        <updated>2025-02-08T21:12:29.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Improved start menu positioning.</li>
+<li>Fixed the start menu width option not applying until restart in some cases.</li>
 </ul>]]></content>
         <author>
             <name>m417z</name>
@@ -239,64 +211,83 @@ This will make the icon not show up on your desktop anymore. Enjoy!</p>]]></cont
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Win+D per monitor 1.0.20241214]]></title>
-        <id>https://windhawk.net/mods/win-d-per-monitor#3527a69c3e55a8acdc4e8d4255af0cd3d5e1566a</id>
-        <link href="https://windhawk.net/mods/win-d-per-monitor"/>
-        <updated>2024-12-16T17:28:15.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="windpermonitor">Win+D per monitor</h1>
-<p>When you press win+d, it only minimizes/restores the windows on the monitor
-where the mouse cursor is located.</p>
-<p>按下win+d时,只最小化/还原鼠标所在监视器上的窗口</p>]]></content>
+        <title type="html"><![CDATA[Spoof Light/Dark Theme 1.0.0]]></title>
+        <id>https://windhawk.net/mods/spoof-light-dark-theme#762d95fff304f1a99f3c35857d5d9502f8e59b00</id>
+        <link href="https://windhawk.net/mods/spoof-light-dark-theme"/>
+        <updated>2025-02-08T20:42:08.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="spooflightdarktheme">Spoof Light/Dark Theme</h1>
+<p>This mod lets you make specific applications believe you are using either light or dark theme,
+regardless of your actual Windows setting.</p>]]></content>
         <author>
-            <name>easyatm</name>
-            <uri>https://github.com/easyatm</uri>
+            <name>aubymori</name>
+            <uri>https://github.com/aubymori</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Click on empty taskbar space 1.9]]></title>
-        <id>https://windhawk.net/mods/taskbar-empty-space-clicks#c18f329132507d6ed1a7517e5c1906d194e2bb34</id>
-        <link href="https://windhawk.net/mods/taskbar-empty-space-clicks"/>
-        <updated>2024-12-15T13:06:35.000Z</updated>
-        <content type="html"><![CDATA[<p>Fixed explorer.exe freeze on Windows 24H2 when the combine taskbar buttons option changed - https://github.com/m1lhaus/windhawk-mods/issues/23.</p>]]></content>
-        <author>
-            <name>m1lhaus</name>
-            <uri>https://github.com/m1lhaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEF/Spotify Titlebar Enabler 0.1]]></title>
-        <id>https://windhawk.net/mods/cef-titlebar-enabler-universal#1c42a261bb552580949476c51ff569b15070ad6e</id>
-        <link href="https://windhawk.net/mods/cef-titlebar-enabler-universal"/>
-        <updated>2024-12-13T19:01:56.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="ceftitlebarenabler">CEF Titlebar Enabler</h1>
-<ul>
-<li>Force native frames and title bars for CEF apps, such as Spotify</li>
-<li>Only works on apps using native CEF top-level windows<ul>
-<li>Steam uses SDL for its top-level windows (except DevTools), so this mod doesn't work with Steam</li></ul></li>
-<li>Electron apps are NOT supported! Just patch asar to override <code>frame: false</code> to true in BrowserWindow creation</li>
-<li>Supported CEF versions: 90.4 to 132<ul>
-<li>This mod won't work with versions before 90.4</li>
-<li>Versions after 132 may work but are not tested</li>
-<li>Variant of this mod using copy-pasted CEF structs instead of hardcoded offsets is available at <a href="https://github.com/Ingan121/files/tree/master/cte">here</a></li>
-<li>Copy required structs/definitions from your wanted CEF version (available <a href="https://cef-builds.spotifycdn.com/index.html">here</a>) and paste them to the above variant to calculate the offsets</li>
-<li>Testing with cefclient: <code>cefclient.exe --use-views --hide-frame --hide-controls</code></li></ul></li>
-<li>Supported Spotify versions: 1.1.60 to 1.2.52 (newer versions may work)</li>
-<li>Spotify notes:<ul>
-<li>Old releases are available <a href="https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit?pli=1&gid=803394557#gid=803394557">here</a></li>
-<li>1.1.60-1.1.67: Use <a href="https://github.com/JulienMaille/SpotifyNoControl">SpotifyNoControl</a> to remove the window controls</li>
-<li>1.1.68-1.1.70: Window control hiding doesn't work yet</li>
-<li>1.1.74: Last version to support proper DWM window controls</li>
-<li>Native DWM window controls are invisible since 1.1.75 as it began hooking window messages to support Windows 11 maximize button hover menu</li>
-<li>1.1.85: Last version to support proper non-DWM window controls</li>
-<li>They are still visible after 1.1.85, but they don't respond to clicks</li>
-<li>1.2.7: First version to use Library X UI by default</li>
-<li>1.2.13: Last version to have the old UI</li>
-<li>1.2.45: Last version to support disabling the global navbar</li>
-<li>Try toggling hardware acceleration multiple times (both in window menu and preferences) if you want a proper window icon. It may work on recent-ish versions</li></ul></li>
+        <title type="html"><![CDATA[Taskbar on top for Windows 11 1.1.1]]></title>
+        <id>https://windhawk.net/mods/taskbar-on-top#33d869f823bca2613379a3ce5664cc27b0e9471d</id>
+        <link href="https://windhawk.net/mods/taskbar-on-top"/>
+        <updated>2025-02-08T20:29:25.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added support for the new thumbnail previews implementation in Windows.</li>
 </ul>]]></content>
         <author>
-            <name>Ingan121</name>
-            <uri>https://github.com/Ingan121</uri>
+            <name>m417z</name>
+            <uri>https://github.com/m417z</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertical Taskbar for Windows 11 1.3.3]]></title>
+        <id>https://windhawk.net/mods/taskbar-vertical#cf9709ca613ae552c8f1d4a3ed9a029f916a9344</id>
+        <link href="https://windhawk.net/mods/taskbar-vertical"/>
+        <updated>2025-02-08T19:57:31.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Added support for the new thumbnail previews implementation in Windows.</li>
+<li>Improved start menu positioning.</li>
+<li>Fixed crashes in recent Windows 11 builds when the taskbar overflow is used.</li>
+<li>Fixed restoring jump list animation when the mod is disabled.</li>
+</ul>]]></content>
+        <author>
+            <name>m417z</name>
+            <uri>https://github.com/m417z</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alt+Tab window delayer 1.1.0]]></title>
+        <id>https://windhawk.net/mods/alt-tab-delayer#c5d08e2f90fadf9a1a23ac71d6f4b5928bd0f553</id>
+        <link href="https://windhawk.net/mods/alt-tab-delayer"/>
+        <updated>2025-02-06T22:37:45.000Z</updated>
+        <content type="html"><![CDATA[<p>Add support for the Win10 alt+tab on Win11</p>]]></content>
+        <author>
+            <name>L3r0y</name>
+            <uri>https://github.com/L3r0yThingz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alt+Tab per monitor 1.1.0]]></title>
+        <id>https://windhawk.net/mods/alt-tab-per-monitor#b246940e57bf03c9d6a6586440cc43d46187b663</id>
+        <link href="https://windhawk.net/mods/alt-tab-per-monitor"/>
+        <updated>2025-02-06T19:24:03.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Make the mod compatible with Win10 and with the Win10 alt+tab on Win11</li>
+</ul>]]></content>
+        <author>
+            <name>L3r0y</name>
+            <uri>https://github.com/L3r0yThingz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logon, Logoff & Shutdown Sounds Restored 1.0.3]]></title>
+        <id>https://windhawk.net/mods/logon-logoff-shutdown-sounds#72ede460ac2338d3c3529f5e159e9703257956a4</id>
+        <link href="https://windhawk.net/mods/logon-logoff-shutdown-sounds"/>
+        <updated>2025-02-04T22:37:49.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Fixed compatibility with ExplorerEx and XP/Server 2003 and earlier Explorer ports like it</li>
+<li>Made code style more consistent</li>
+</ul>]]></content>
+        <author>
+            <name>Toru the Red Fox</name>
+            <uri>https://github.com/TorutheRedFox</uri>
         </author>
     </entry>
 </feed>

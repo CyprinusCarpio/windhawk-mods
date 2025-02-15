@@ -121,13 +121,37 @@
                 "version": "1.0.2"
             }
         },
+        "alt-tab-delayer": {
+            "details": {
+                "defaultSorting": 2890,
+                "published": 1737657431000,
+                "rating": 10,
+                "ratingUsers": 9,
+                "updated": 1738881465000,
+                "users": 289
+            },
+            "metadata": {
+                "architecture": [
+                    "x86-64"
+                ],
+                "author": "L3r0y",
+                "compilerOptions": "-lversion",
+                "description": "Delays the appearance of the Alt+Tab window, preventing flickering and reducing distractions during fast app switching",
+                "github": "https://github.com/L3r0yThingz",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Alt+Tab window delayer",
+                "version": "1.1.0"
+            }
+        },
         "alt-tab-per-monitor": {
             "details": {
                 "defaultSorting": 10630,
                 "published": 1730148779000,
                 "rating": 10,
                 "ratingUsers": 24,
-                "updated": 1730148779000,
+                "updated": 1738869843000,
                 "users": 1063
             },
             "metadata": {
@@ -135,14 +159,14 @@
                     "x86-64"
                 ],
                 "author": "L3r0y",
-                "compilerOptions": "-lole32 -loleaut32",
+                "compilerOptions": "-lole32 -loleaut32 -lversion",
                 "description": "Pressing Alt+Tab shows all open windows on the primary display. This mod shows only the windows on the monitor where the cursor is.",
                 "github": "https://github.com/L3r0yThingz",
                 "include": [
                     "explorer.exe"
                 ],
                 "name": "Alt+Tab per monitor",
-                "version": "1.0.0"
+                "version": "1.1.0"
             }
         },
         "balloon-sound-fix": {
@@ -222,22 +246,22 @@
                 "published": 1734116516000,
                 "rating": 10,
                 "ratingUsers": 7,
-                "updated": 1735140349000,
+                "updated": 1739172907000,
                 "users": 459
             },
             "metadata": {
                 "author": "Ingan121",
-                "compilerOptions": "-lcomctl32 -luxtheme",
-                "description": "Force native frames and title bars for CEF apps",
+                "compilerOptions": "-lcomctl32 -luxtheme -ldwmapi -DWINVER=0x0A00",
+                "description": "Various tweaks for Spotify, including native frames, transparent windows, and more",
                 "github": "https://github.com/Ingan121",
                 "homepage": "https://www.ingan121.com/",
                 "include": [
                     "spotify.exe",
                     "cefclient.exe"
                 ],
-                "name": "CEF/Spotify Titlebar Enabler",
+                "name": "CEF/Spotify Tweaks",
                 "twitter": "https://twitter.com/Ingan121",
-                "version": "0.5"
+                "version": "0.7"
             }
         },
         "center-titlebar": {
@@ -332,6 +356,30 @@
                 "name": "Chrome/Edge scroll tabs with mouse wheel",
                 "twitter": "https://twitter.com/m417z",
                 "version": "1.1"
+            }
+        },
+        "chromium-native-titlebar": {
+            "details": {
+                "defaultSorting": 9,
+                "published": 1739537800000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1739582662000,
+                "users": 1
+            },
+            "metadata": {
+                "author": "Anixx",
+                "compilerOptions": "-lcomctl32",
+                "description": "Restore native titlebars in Edge and Chrome",
+                "github": "https://github.com/Anixx",
+                "include": [
+                    "chrome.exe",
+                    "msedge.exe",
+                    "chromium.exe",
+                    "supermium.exe"
+                ],
+                "name": "Native titelebars in Chromium-based browsers",
+                "version": "0.1.1"
             }
         },
         "chromium-ncpaint-fix": {
@@ -459,7 +507,7 @@
                 "published": 1708354597000,
                 "rating": 10,
                 "ratingUsers": 3,
-                "updated": 1736863234000,
+                "updated": 1736864594000,
                 "users": 375
             },
             "metadata": {
@@ -572,6 +620,26 @@
                 "version": "1.1.0"
             }
         },
+        "classic-start-menu-folders-icon": {
+            "details": {
+                "defaultSorting": 380,
+                "published": 1738189438000,
+                "rating": 10,
+                "ratingUsers": 1,
+                "updated": 1738189438000,
+                "users": 38
+            },
+            "metadata": {
+                "author": "xalejandro",
+                "description": "Change the default icon of Start Menu folders like Windows XP and before",
+                "github": "https://github.com/tetawaves",
+                "include": [
+                    "*"
+                ],
+                "name": "Classic Start Menu Folders Icon",
+                "version": "1.0"
+            }
+        },
         "classic-taskbar-background-fix": {
             "details": {
                 "defaultSorting": 531,
@@ -600,7 +668,7 @@
                 "published": 1708239757000,
                 "rating": 10,
                 "ratingUsers": 1,
-                "updated": 1723930010000,
+                "updated": 1737801083000,
                 "users": 140
             },
             "metadata": {
@@ -612,7 +680,7 @@
                     "explorer.exe"
                 ],
                 "name": "Classic Taskbar 3D buttons Lite",
-                "version": "1.3"
+                "version": "1.3.1"
             }
         },
         "classic-taskbar-buttons-lite-vs-without-spacing": {
@@ -862,7 +930,7 @@
                 "published": 1733519825000,
                 "rating": 10,
                 "ratingUsers": 28,
-                "updated": 1736093145000,
+                "updated": 1737403027000,
                 "users": 2753
             },
             "metadata": {
@@ -873,7 +941,7 @@
                     "*"
                 ],
                 "name": "Dark mode context menus",
-                "version": "1.1"
+                "version": "1.2"
             }
         },
         "desktop-icons-view": {
@@ -1054,6 +1122,27 @@
                 "name": "Disable Virtual Desktop Transition Animation",
                 "twitter": "https://twitter.com/kawaipure",
                 "version": "1.0"
+            }
+        },
+        "disk-pie-chart": {
+            "details": {
+                "defaultSorting": 0,
+                "published": 1739611048000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1739611048000,
+                "users": 0
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lgdi32",
+                "description": "Makes the graph in disk properties a pie chart again",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Disk Pie Chart",
+                "version": "1.0.0"
             }
         },
         "dot-hide": {
@@ -1636,7 +1725,7 @@
                 "published": 1708239950000,
                 "rating": 10,
                 "ratingUsers": 1,
-                "updated": 1708280471000,
+                "updated": 1739622078000,
                 "users": 309
             },
             "metadata": {
@@ -1647,7 +1736,7 @@
                     "explorer.exe"
                 ],
                 "name": "Icons of Win16 apps in Explorer",
-                "version": "1.0.1"
+                "version": "1.0.2"
             }
         },
         "ignore-focus-loss": {
@@ -1906,7 +1995,7 @@
                 "published": 1725792150000,
                 "rating": 10,
                 "ratingUsers": 18,
-                "updated": 1729806251000,
+                "updated": 1738708669000,
                 "users": 1230
             },
             "metadata": {
@@ -1919,7 +2008,29 @@
                 ],
                 "name": "Logon, Logoff & Shutdown Sounds Restored",
                 "twitter": "https://twitter.com/TorutheRedFox",
-                "version": "1.0.2"
+                "version": "1.0.3"
+            }
+        },
+        "magnifier-mod": {
+            "details": {
+                "defaultSorting": 36,
+                "published": 1737058005000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1737493649000,
+                "users": 4
+            },
+            "metadata": {
+                "author": "00face",
+                "compilerOptions": "-lgdi32 -lcomdlg32 -luxtheme -lgdiplus",
+                "description": "Adds a magnifier window you can customize and dock at the top, bottom, left, or right of your screen and more.",
+                "github": "https://github.com/00face",
+                "homepage": "https://hyaenahyaena.com",
+                "include": [
+                    "explorer.exe"
+                ],
+                "name": "Taskbar Magnifier M🔍d",
+                "version": "0.5.4"
             }
         },
         "maintain-flux-colour-temperature": {
@@ -2259,7 +2370,7 @@
                 "published": 1731512140000,
                 "rating": 0,
                 "ratingUsers": 0,
-                "updated": 1731512140000,
+                "updated": 1739257911000,
                 "users": 61
             },
             "metadata": {
@@ -2275,7 +2386,7 @@
                     "*"
                 ],
                 "name": "Per-app Language Preferences",
-                "version": "1.0"
+                "version": "1.2"
             }
         },
         "pinned-items-double-click": {
@@ -2454,6 +2565,27 @@
                 "version": "1.0"
             }
         },
+        "restore-button-pulse-anim": {
+            "details": {
+                "defaultSorting": 72,
+                "published": 1739537994000,
+                "rating": 0,
+                "ratingUsers": 0,
+                "updated": 1739537994000,
+                "users": 8
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-luxtheme",
+                "description": "Restores the pulse animation that focused buttons played in Windows Vista/7",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Restore Button Pulse Animation",
+                "version": "1.0.0"
+            }
+        },
         "ribbon-caption-icon-fix": {
             "details": {
                 "defaultSorting": 2890,
@@ -2584,13 +2716,34 @@
                 "version": "1.0.0"
             }
         },
+        "spoof-light-dark-theme": {
+            "details": {
+                "defaultSorting": 440,
+                "published": 1739047328000,
+                "rating": 10,
+                "ratingUsers": 2,
+                "updated": 1739548651000,
+                "users": 44
+            },
+            "metadata": {
+                "author": "aubymori",
+                "compilerOptions": "-lntdll",
+                "description": "Use light/dark theme on an application basis",
+                "github": "https://github.com/aubymori",
+                "include": [
+                    "*"
+                ],
+                "name": "Spoof Light/Dark Theme",
+                "version": "1.0.1"
+            }
+        },
         "start-menu-all-apps": {
             "details": {
                 "defaultSorting": 28690,
                 "published": 1647604671000,
                 "rating": 10,
                 "ratingUsers": 21,
-                "updated": 1699302173000,
+                "updated": 1738177318000,
                 "users": 2869
             },
             "metadata": {
@@ -2606,7 +2759,7 @@
                 ],
                 "name": "Show all apps by default in start menu",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0.2"
+                "version": "1.0.3"
             }
         },
         "suppress-run-box-error-message": {
@@ -2756,7 +2909,7 @@
                 "published": 1682233932000,
                 "rating": 9,
                 "ratingUsers": 32,
-                "updated": 1731022973000,
+                "updated": 1739555161000,
                 "users": 1103
             },
             "metadata": {
@@ -2764,7 +2917,7 @@
                     "x86-64"
                 ],
                 "author": "m417z",
-                "compilerOptions": "-lcomctl32 -loleaut32 -lole32 -lruntimeobject",
+                "compilerOptions": "-lcomctl32 -loleaut32 -lole32 -lruntimeobject -lversion",
                 "description": "Minimize/restore by scrolling the mouse wheel over taskbar buttons and thumbnail previews (Windows 11 only)",
                 "github": "https://github.com/m417z",
                 "homepage": "https://m417z.com/",
@@ -2773,7 +2926,7 @@
                 ],
                 "name": "Taskbar minimize/restore on scroll",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0.7"
+                "version": "1.1.1"
             }
         },
         "taskbar-classic-menu": {
@@ -2880,7 +3033,7 @@
                 "published": 1646604429000,
                 "rating": 10,
                 "ratingUsers": 225,
-                "updated": 1728682340000,
+                "updated": 1739394461000,
                 "users": 10283
             },
             "featured": true,
@@ -2889,7 +3042,7 @@
                     "x86-64"
                 ],
                 "author": "m417z",
-                "compilerOptions": "-D__USE_MINGW_ANSI_STDIO=0 -lcomctl32 -loleaut32 -lole32 -lshlwapi -lversion -lwininet",
+                "compilerOptions": "-D__USE_MINGW_ANSI_STDIO=0 -lcomctl32 -loleaut32 -lole32 -lshlwapi -lversion",
                 "description": "Causes a separate button to be created on the taskbar for each new window",
                 "github": "https://github.com/m417z",
                 "homepage": "https://m417z.com/",
@@ -2898,7 +3051,7 @@
                 ],
                 "name": "Disable grouping on the taskbar",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.3.7"
+                "version": "1.3.8"
             }
         },
         "taskbar-hung-rearrangement-fix": {
@@ -3112,7 +3265,7 @@
                 "published": 1728056002000,
                 "rating": 10,
                 "ratingUsers": 66,
-                "updated": 1730593288000,
+                "updated": 1739046565000,
                 "users": 3595
             },
             "metadata": {
@@ -3129,7 +3282,7 @@
                 ],
                 "name": "Taskbar on top for Windows 11",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0.5"
+                "version": "1.1.1"
             }
         },
         "taskbar-primary-on-secondary-monitor": {
@@ -3188,7 +3341,7 @@
                 "published": 1724520144000,
                 "rating": 10,
                 "ratingUsers": 22,
-                "updated": 1730488449000,
+                "updated": 1739049149000,
                 "users": 1731
             },
             "metadata": {
@@ -3196,18 +3349,16 @@
                     "x86-64"
                 ],
                 "author": "m417z",
-                "compilerOptions": "-lole32 -loleaut32 -lruntimeobject -lshcore",
+                "compilerOptions": "-ldwmapi -lole32 -loleaut32 -lruntimeobject -lshcore",
                 "description": "Forces the start button to be on the left of the taskbar, even when taskbar icons are centered (Windows 11 only)",
                 "github": "https://github.com/m417z",
                 "homepage": "https://m417z.com/",
                 "include": [
-                    "explorer.exe",
-                    "StartMenuExperienceHost.exe",
-                    "SearchHost.exe"
+                    "explorer.exe"
                 ],
                 "name": "Start button always on the left",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.2"
+                "version": "1.2.1"
             }
         },
         "taskbar-thumbnail-reorder": {
@@ -3243,7 +3394,7 @@
                 "published": 1728339473000,
                 "rating": 10,
                 "ratingUsers": 18,
-                "updated": 1728339473000,
+                "updated": 1739566421000,
                 "users": 643
             },
             "metadata": {
@@ -3260,7 +3411,7 @@
                 ],
                 "name": "Disable Taskbar Thumbnails",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.0"
+                "version": "1.1"
             }
         },
         "taskbar-tray-system-icon-tweaks": {
@@ -3269,7 +3420,7 @@
                 "published": 1729973006000,
                 "rating": 10,
                 "ratingUsers": 116,
-                "updated": 1730234692000,
+                "updated": 1739229899000,
                 "users": 7701
             },
             "metadata": {
@@ -3286,7 +3437,7 @@
                 ],
                 "name": "Taskbar tray system icon tweaks",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.1"
+                "version": "1.2"
             }
         },
         "taskbar-vertical": {
@@ -3295,7 +3446,7 @@
                 "published": 1718190574000,
                 "rating": 10,
                 "ratingUsers": 113,
-                "updated": 1729708789000,
+                "updated": 1739044651000,
                 "users": 4385
             },
             "metadata": {
@@ -3303,20 +3454,18 @@
                     "x86-64"
                 ],
                 "author": "m417z",
-                "compilerOptions": "-DWINVER=0x0A00 -lole32 -loleaut32 -lruntimeobject -lshcore",
-                "description": "Finally, the missing vertical taskbar option for Windows 11!",
+                "compilerOptions": "-ldwmapi -lole32 -loleaut32 -lruntimeobject -lshcore",
+                "description": "Finally, the missing vertical taskbar option for Windows 11! Move the taskbar to the left or right side of the screen.",
                 "github": "https://github.com/m417z",
                 "homepage": "https://m417z.com/",
                 "include": [
                     "explorer.exe",
-                    "StartMenuExperienceHost.exe",
-                    "SearchHost.exe",
                     "ShellExperienceHost.exe",
                     "ShellHost.exe"
                 ],
                 "name": "Vertical Taskbar for Windows 11",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.3"
+                "version": "1.3.3"
             }
         },
         "taskbar-volume-control": {
@@ -3927,7 +4076,7 @@
                 "published": 1703013948000,
                 "rating": 10,
                 "ratingUsers": 1003,
-                "updated": 1733842630000,
+                "updated": 1738426744000,
                 "users": 93492
             },
             "featured": true,
@@ -3936,17 +4085,18 @@
                     "x86-64"
                 ],
                 "author": "m417z",
-                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lruntimeobject -lversion -Wl,--export-all-symbols",
+                "compilerOptions": "-lcomctl32 -lole32 -loleaut32 -lruntimeobject -Wl,--export-all-symbols",
                 "description": "Customize the start menu with themes contributed by others or create your own",
                 "github": "https://github.com/m417z",
                 "homepage": "https://m417z.com/",
                 "include": [
                     "StartMenuExperienceHost.exe",
-                    "SearchHost.exe"
+                    "SearchHost.exe",
+                    "SearchApp.exe"
                 ],
                 "name": "Windows 11 Start Menu Styler",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.2"
+                "version": "1.2.1"
             }
         },
         "windows-11-taskbar-styler": {
@@ -3955,7 +4105,7 @@
                 "published": 1684509250000,
                 "rating": 9,
                 "ratingUsers": 875,
-                "updated": 1729940337000,
+                "updated": 1738428105000,
                 "users": 73318
             },
             "featured": true,
@@ -3973,7 +4123,7 @@
                 ],
                 "name": "Windows 11 Taskbar Styler",
                 "twitter": "https://twitter.com/m417z",
-                "version": "1.3.8"
+                "version": "1.3.9"
             }
         },
         "windows-7-clock-spacing": {

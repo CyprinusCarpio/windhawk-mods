@@ -1,3 +1,20 @@
+## 1.3.3 ([Feb 8, 2025](https://github.com/ramensoftware/windhawk-mods/blob/cf9709ca613ae552c8f1d4a3ed9a029f916a9344/mods/taskbar-vertical.wh.cpp))
+
+* Added support for the new thumbnail previews implementation in Windows.
+* Improved start menu positioning.
+* Fixed crashes in recent Windows 11 builds when the taskbar overflow is used.
+* Fixed restoring jump list animation when the mod is disabled.
+
+## 1.3.2 ([Jan 29, 2025](https://github.com/ramensoftware/windhawk-mods/blob/2d855bfc1ee92c213a681996b36cb7997fb1594d/mods/taskbar-vertical.wh.cpp))
+
+* Show the running indicator on the right instead of the left when the taskbar is on the right.
+
+## 1.3.1 ([Jan 29, 2025](https://github.com/ramensoftware/windhawk-mods/blob/b4dba0e9ddf0dbcc0b0668b079cf7144ec54c298/mods/taskbar-vertical.wh.cpp))
+
+* Fixed the start menu width option not applying until restart in some cases.
+* Fixed context menus not appearing with monitors that are arranged vertically, one above the other.
+* Fixed compatibility with recent preview builds of Windows 11.
+
 ## 1.3 ([Oct 23, 2024](https://github.com/ramensoftware/windhawk-mods/blob/b43bd5d00887601ed297b2366631494080f0dd3e/mods/taskbar-vertical.wh.cpp))
 
 * Fixed jump lists being cut off when opened near the edge of the screen.
